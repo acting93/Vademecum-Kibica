@@ -915,7 +915,7 @@ nav {
 }
 
 .news > img {
-    width: 90%;
+    width: 95%;
     height: 90%;
 }
 
@@ -1404,7 +1404,7 @@ nav {
 #upBtn {
     position: absolute;
     font-size: 25px;
-    right: 10%;
+    right: 5%;
     top: 0px;
     background: none;
     color: yellow;
@@ -1416,7 +1416,7 @@ nav {
     position: absolute;
     bottom: 20%;
     font-size: 25px;
-    right: 10%;
+    right: 5%;
     background: none;
     color: yellow;
     outline: none;
@@ -2212,31 +2212,24 @@ footer {
 
 @media only screen and(max-width:450px) {
     .articlePhotoNews {
-        width: 80%;
-        height: 300px;
+        width: 60%;
+        height: 140px;
+    }
+    .newsContent {
+        > p {
+            font-size: 10px;
+        }
+
+        > h3 {
+            font-size: 12px;
+        }
     }
 }
 
 @media only screen and(max-width:300px) {
     .articlePhotoNews {
         width: 100%;
-        height: 280px;
-    }
-
-    .newsContent {
-        > p {
-            font-size: 15px;
-        }
-
-        > h3 {
-            font-size: 18px;
-        }
-    }
-}
-
-@media only screen and(max-width:450px) {
-    .articlePhotoNews {
-        height: 140px;
+        height: 180px;
     }
 
     .newsContent {
@@ -2250,9 +2243,9 @@ footer {
     }
 }
 
-@media only screen and (max-width:200px) {
+@media only screen and (max-width:220px) {
     .articlePhotoNews {
-        height: 60px;
+        height: 120px;
     }
 
     .newsContent {
@@ -2273,10 +2266,7 @@ footer {
     height: auto;
     float: left;
     padding: 10px;
-    position: fixed;
-    top:60px;
-    z-index: 300;
-
+    
     > p {
         text-align: justify;
     }
