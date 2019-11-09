@@ -1,0 +1,566 @@
+{
+    "ekstraklasa8":[
+        {
+        "teams":"ŁKS ŁÓDŹ / ŚLĄSK WROCŁAW",
+        "hrs":"17:30"   
+    },
+        {
+        "teams":"PIAST GLIWICE / JAGIELLONIA BIAŁYSTOK",
+        "hrs":"17:30"    
+    }
+    ],
+    
+     "liga18":[ 
+       {
+        "teams":"SANDECJA NOWY SĄCZ / OLIMPIA GRUDZIĄDZ",
+        "hrs":"17:30"    
+    }
+    ],
+    
+    "liga38":[ 
+          {
+        "teams":"POLONIA WARSZAWA / RKS RADOMSKO",
+        "hrs":"17:30"
+    }
+    ],
+    
+    "ekstraklasa9":[
+       {
+        "teams":"LEGIA WARSZAWA / GÓRNIK ZABRZE",    
+        "hrs":"17:30"
+    },
+        {
+        "teams":"WISŁA KRAKÓW / ARKA GDYNIA",    
+        "hrs":"20:00"
+    },
+        {
+        "teams":"WISŁA PŁOCK / CRACOVIA",    
+        "hrs":"15:00"
+    }
+    ],    
+     "liga19":[ 
+        {
+        "teams":"STOMIL OLSZTYN / WARTA POZNAŃ",
+        "hrs":"12:40"    
+    },
+         {
+        "teams":"GKS BEŁCHATÓW / GKS TYCHY",
+        "hrs":"17:00"    
+    },
+         {
+        "teams":"RADOMIAK RADOM / PUSZCZA NIEPOŁOMICE",
+        "hrs":"14:00"    
+    },
+         {
+        "teams":"GKS 1962 JASTRZĘBIE / MIEDŹ LEGNICA",
+        "hrs":"16:00"    
+    },
+         {
+        "teams":"ZAGŁĘBIE SOSNOWIEC / WIGRY SUWAŁKI",
+        "hrs":"18:00"    
+    },
+         {
+        "teams":"CHOJNICZANKA CHOJNICE / STAL MIELEC",
+        "hrs":"16:00"    
+    }
+    ],
+    
+    "liga29":[ 
+          {
+        "teams":"RESOVIA / GKS KATOWICE",
+        "hrs":"13:00"      
+    },
+        {
+        "teams":"BYTOVIA BYTÓW / GÓRNIK POLKOWICE",
+        "hrs":"16:00"    
+    },
+        {
+        "teams":"BŁĘKITNI STARGARD / LECH II POZNAŃ",
+        "hrs":"13:00"    
+    },
+        {
+        "teams":"OLIMPIA ELBLĄG / GARBARNIA KRAKÓW",
+        "hrs":"18:00"    
+    },
+        {
+        "teams":"GÓRNIK ŁĘCZNA / LEGIONOVIA LEGIONOWO",
+        "hrs":"17:00"    
+    },
+        {
+        "teams":"SKRA CZĘSTOCHOWA / STAL RZESZÓW",
+        "hrs":"14:30"    
+    },
+        {
+        "teams":"POGOŃ SIEDLCE / STAL STALOWA WOLA",
+        "hrs":"16:30"    
+    }
+    ],
+    
+    "liga39":[ 
+          {
+        "teams":"UNIA SKIERNIEWICE / BROŃ RADOM",
+        "hrs":"13:00"      
+    },
+        {
+        "teams":"KS WASILKÓW / SOKÓŁ ALEKSANDRÓW ŁÓDZKI",
+        "hrs":"13:00"    
+    },
+        {
+        "teams":"CHEMIK POLICE / GÓRNIK KONIN",
+        "hrs":"14:00"    
+    },
+        {
+        "teams":"UNIA JANIKOWO / BAŁTYK KOSZALIN",
+        "hrs":"13:00"    
+    },
+        {
+        "teams":"RUCH CHORZÓW / ŚLĄSK II WROCŁAW",
+        "hrs":"17:00"    
+    },
+        {
+        "teams":"REKORD BIELSKO BIAŁA / RUCH ZDZIESZOWICE",
+        "hrs":"14:00"    
+    },
+        {
+        "teams":"KSZO 1929 OSTROWIEC ŚWIĘTOKRZYSKI / MOTOR LUBLIN",
+        "hrs":"16:00"    
+    },
+        {
+        "teams":"WISŁA PUŁAWY / PODLASIE BIAŁA PODLASKA",
+        "hrs":"14:00"    
+    }
+    ],
+    
+    "ekstraklasa10":[
+       {
+        "teams":"LECH POZNAŃ / KORONA KIELCE",    
+        "hrs":"15:00"
+    },
+        {
+        "teams":"LECHIA GDAŃSK / POGOŃ SZCZECIN",    
+        "hrs":"17:30"
+    },
+        {
+        "teams":"ZAGŁĘBIE LUBIN / RAKÓW CZĘSTOCHOWA",    
+        "hrs":"12:30"
+    }
+    ],
+    "liga110":[
+      {
+       "teams":"CHROBRY GŁOGÓW / PODBESKIDZIE BIELSKO BIAŁA",    
+       "hrs":"18:00"     
+    }
+    ],
+    "liga210":[
+      {
+       "teams":"ZNICZ PRUSZKÓW / WIDZEW ŁÓDŹ",    
+       "hrs":"13:05"     
+    },
+        {
+       "teams":"GRYF WEJHEROWO / ELANA TORUŃ",    
+       "hrs":"13:00"     
+    }
+  ],
+    
+    "liga310":[
+      {
+       "teams":"LEGIA II WARSZAWA / CONCORDIA ELBLĄG",    
+       "hrs":"12:00"     
+    },
+        {
+       "teams":"LECHIA TOMASZÓW MAZOWIECKI / ŚWIT NOWY DWÓR MAZOWIECKI",    
+       "hrs":"11:00"     
+    },
+        {
+       "teams":"RADUNIA STĘŻYCA / GWARDIA KOSZALIN",    
+       "hrs":"13:00"     
+    }
+  ],
+    
+    "ekstraklasa22":[
+         {
+        "teams":"Górnik Zabrze / Wisła Płock",    
+        "hrs":"18:00"
+    },
+        {
+        "teams":"Lech Poznań / Piast Gliwice",    
+        "hrs":"20:30"
+    }
+    ],
+    
+    "ekstraklasa23":[
+         {
+        "teams":"Korona Kielce / Raków Częstochowa",    
+        "hrs":"15:00"
+    },
+        {
+        "teams":"Lechia Gdańsk / ŁKS Łódź",    
+        "hrs":"20:00"
+    },
+        {
+        "teams":"Pogoń Szczecin / Legia Warszawa",    
+        "hrs":"20:30"
+    }
+    ],
+    
+    "ekstraklasa24":[
+         {
+        "teams":"Jagiellonia Białystok / Arka Gdynia",    
+        "hrs":"20:30"
+    },
+        {
+        "teams":"Śląsk Wrocław / Wisła Kraków",    
+        "hrs":"17:30"
+    }
+    ],
+    
+    "ekstraklasa25":[
+         {
+        "teams":"Cracovia / Zagłębie lubin",    
+        "hrs":"18:00"
+    }
+    ],
+    
+    "ekstraklasa30":[
+         {
+        "teams":"Arka Gdynia / Pogoń Szczecin",    
+        "hrs":"15:00"
+    },
+        {
+        "teams":"Legia Warszawa/ Korona Kielce",    
+        "hrs":"20:00"
+    },
+       {
+        "teams":"Piast Gliwice / Śląsk Wrocław",    
+        "hrs":"17:30"
+    }
+    ],
+    
+    "ekstraklasa29":[
+         {
+        "teams":"Wisła Płock / Lech Poznań",    
+        "hrs":"20:30"
+    },
+        {
+        "teams":"Zagłębie Lubin / Górnik Zabrze",    
+        "hrs":"18:00"
+    }
+    ],
+    
+    "liga116":[
+         {
+        "teams":"Podbeskidzie Bielsko-Biała / Zagłębie Sosnowiec",    
+        "hrs":"12:40"
+    },
+        {
+        "teams":"GKS Tychy / Radomiak Radom",    
+        "hrs":"17:00"
+    },
+        {
+        "teams":"Stomil Olsztyn / GKS Bełchatów",    
+        "hrs":"17:00"
+    },
+        {
+        "teams":"Chrobry Głogów / Olimpia Grudziądz",    
+        "hrs":"16:00"
+    },
+        {
+        "teams":"Sandecja Nowy Sącz / Bruk-Bet Termalica Nieciecza",    
+        "hrs":"17:00"
+    },
+        {
+        "teams":"Odra Opole / Miedź Legnica",    
+        "hrs":"16:00"
+    },
+        {
+        "teams":"GKS 1962 Jastrzębie / Puszcza Niepołomice",    
+        "hrs":"13:00"
+    }
+    ],
+    "liga117":[
+         {
+        "teams":"Warta Poznań / Stal Mielec",    
+        "hrs":"12:40"
+    }
+   ],
+    
+    "liga122":[
+         {
+        "teams":"Miedź Legnica / Sandecja Nowy Sącz",    
+        "hrs":"18:00"
+    },
+        {
+        "teams":"Podbeskidzie Bielsko-Biała / Chojniczanka Chojnice",    
+        "hrs":"18:00"
+    }
+    ],
+    
+    "liga123":[
+       {
+        "teams":"GKS Bełchatów / Warta Poznań",    
+        "hrs":"17:00"
+    }, 
+        {
+        "teams":"Stomil Olsztyn / Radomiak Radom",    
+        "hrs":"17:00"
+    },
+        {
+        "teams":"GKS Tychy / GKS 1962 Jastrzębie",    
+        "hrs":"17:00"
+    },
+        {
+        "teams":"Puszcza Niepołomice / Odra Opole",    
+        "hrs":"15:00"
+    },
+        {
+        "teams":"Bruk-Bet Termalica Nieciecza / Chrobry Głogów",    
+        "hrs":"13:30"
+    },
+        {
+        "teams":"Olimpia Grudziądz / Zagłębie Sosnowiec",    
+        "hrs":"16:00"
+    },
+        {
+        "teams":"Wigry Suwałki / Stal Mielec",    
+        "hrs":"16:00"
+    }
+    ],
+    
+    "liga129":[
+       {
+        "teams":"Chrobry Głogów / Miedź Legnica",    
+        "hrs":"17:00"
+    }
+    ],
+    
+    "liga130":[
+       {
+        "teams":"Zagłębie Sosnowiec / Bruk-Bet Termalica Nieciecza",    
+        "hrs":"17:00"
+    },
+        {
+        "teams":"Sandecja Nowy Sącz / Puszcza Niepołomice",    
+        "hrs":"17:00"
+    },
+        {
+        "teams":"GKS 1962 Jastrzębie / Stomil Olsztyn",    
+        "hrs":"13:00"
+    },
+        {
+        "teams":"Radomiak Radom / GKS Bełchatów",    
+        "hrs":"13:00"
+    }
+    ],
+    
+    "liga215":[
+       {
+        "teams":"Widzew Łódź / Gryf Wejherowo",    
+        "hrs":"19:10"
+    }
+    ],
+    
+    "liga216":[
+       {
+        "teams":"Lech II Poznań / Olimpia Elbląg",    
+        "hrs":"13:00"
+    },
+        {
+        "teams":"Górnik Łęczna / Garbarnia Kraków",    
+        "hrs":"17:00"
+    },
+        {
+        "teams":"Błękitni Stargard / Górnik Polkowice",    
+        "hrs":"13:00"
+    },
+        {
+        "teams":"Bytovia Bytów / Elana Toruń",    
+        "hrs":"16:00"
+    },
+        {
+        "teams":"Resovia / Stal Stalowa Wola",    
+        "hrs":"13:00"
+    }
+    ],
+    
+    "liga217":[
+       {
+        "teams":"Pogoń Siedlce / Stal Rzeszów",    
+        "hrs":"13:00"
+    },
+        {
+        "teams":"Skra Częstochow / Legionovia Legionowo",    
+        "hrs":"13:00"
+    }
+    ],
+    
+    "liga223":[
+       {
+        "teams":"Resovia / Pogoń Siedlce",    
+        "hrs":"12:00"
+    },
+        {
+        "teams":"Stal Stalowa Wola / Znicz Pruszków",    
+        "hrs":"12:00"
+    },
+        {
+        "teams":"GKS Katowice / Gryf Wejherowo",    
+        "hrs":"13:00"
+    },
+        {
+        "teams":"Widzew Łódź / Bytovia Bytów",    
+        "hrs":"19:10"
+    },
+        {
+        "teams":"Górnik Polkowice / Olimpia Elbląg",    
+        "hrs":"16:00"
+    },
+        {
+        "teams":"Lech II Poznań / Górnik Łęczna",    
+        "hrs":"13:00"
+    },
+        {
+        "teams":"Garbarnia Kraków / Skra Częstochowa",    
+        "hrs":"13:00"
+    },
+        {
+        "teams":"Legionovia Legionowo / Stal Rzeszów",    
+        "hrs":"13:00"
+    }
+    ],
+    
+    "liga230":[
+       {
+        "teams":"Stal Rzeszów / Garbarnia Kraków",    
+        "hrs":"13:00"
+    },
+        {
+        "teams":"Skra Częstochowa / Lech II Poznań",    
+        "hrs":"17:00"
+    },
+        {
+        "teams":"Górnik Łęczna / Górnik Polkowice",    
+        "hrs":"17:00"
+    },
+        {
+        "teams":"Olimpia Elbląg / Elana Toruń",    
+        "hrs":"17:00"
+    },
+        {
+        "teams":"Błękitni Stargard / Widzew Łódź",    
+        "hrs":"13:00"
+    },
+        {
+        "teams":"Bytovia Bytów / GKS Katowice",    
+        "hrs":"13:00"
+    }
+    ],
+    
+    "liga315":[
+       {
+        "teams":"Broń Radom / Polonia Warszawa",    
+        "hrs":"18:00"
+    }
+    ],
+    
+    "liga316":[
+       {
+        "teams":"Znicz Biała Piska / Unia Skierniewice",    
+        "hrs":"13:00"
+    },
+        {
+        "teams":"Concordia Elbląg / Huragan Morąg",    
+        "hrs":"13:30"
+    },
+        {
+        "teams":"Kotwica Kołobrzeg / Bałtyk Gdynia",    
+        "hrs":"17:00"
+    },
+        {
+        "teams":"KKS 1925 Kalisz / Nielba Wągrowiec",    
+        "hrs":"13:30"
+    },
+        {
+        "teams":"Ruch Zdzieszowice / Foto-Higiena Gać",    
+        "hrs":"13:30"
+    },
+        {
+        "teams":"Lechia Zielona Góra / Pniówek Pawłowice Śląskie",    
+        "hrs":"13:00"
+    },
+        {
+        "teams":"Motor Lublin / Hetman Zamość",    
+        "hrs":"17:00"
+    },
+        {
+        "teams":"Podlasie Biała Podlaska / Siarka Tarnobrzeg",    
+        "hrs":"13:00"
+    }
+    ],
+    
+    "liga317":[
+       {
+        "teams":"Stal Kraśnik / Chełmianka Chełm",    
+        "hrs":"13:00"
+    },
+        {
+        "teams":"Mieszko Gniezno / Radunia Stężyca",    
+        "hrs":"13:30"
+    },
+        {
+        "teams":"Jarota Jarocin / Grom Nowy Staw",    
+        "hrs":"13:30"
+    },
+        {
+        "teams":"Świt Nowy Dwór Mazowiecki / KS Wasilków",    
+        "hrs":"13:00"
+    }
+    ],
+    
+    "liga323":[
+       {
+        "teams":"Unia Skierniewice / Polonia Warszawa",    
+        "hrs":"13:00"
+    },
+        {
+        "teams":"Sokół Ostróda / Huragan Morąg",    
+        "hrs":"18:00"
+    },
+        {
+        "teams":"Rekord Bielsko-Biała / Polonia Bytom",    
+        "hrs":"13:30"
+    },
+        {
+        "teams":"Foto-Higiena Gać / ROW 1964 Rybnik",    
+        "hrs":"13:30"
+    },
+        {
+        "teams":"Chełmianka Chełm / Sokół Sieniawa",    
+        "hrs":"13:30"
+    },
+        {
+        "teams":"Podhale Nowy Targ / Wisłoka Dębica",    
+        "hrs":"13:00"
+    }
+    ],
+    
+    "liga324":[
+       {
+        "teams":"Lechia Tomaszów Mazowiecki / Concordia Elbląg",    
+        "hrs":"13:00"
+    },
+        {
+        "teams":"Pelikan Łowicz / KS Wasilków",    
+        "hrs":"11:15"
+    },
+        {
+        "teams":"Świt Nowy Dwór Mazowiecki / Olimpia Zambrów",    
+        "hrs":"13:00"
+    },
+        {
+        "teams":"Ruch Wysokie Mazowieckie / Znicz Biała Piska",    
+        "hrs":"16:00"
+    }
+    ]
+}
+
+

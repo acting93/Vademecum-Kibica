@@ -1,0 +1,1468 @@
+{
+    "napastnicyArka":[ 
+          {
+        "name":"Zawodnik",    
+        "previousClub":"Poprzedni klub:"
+    },
+        {
+        "name":"Kamil Antonik",    
+        "previousClub":"Resovia"
+    },
+        {
+        "name":"Aleksandyr Kolew Sandecja",    
+        "previousClub":"Sandecja Nowy Sącz"
+    },
+        {
+        "name":"Jan Łoś",    
+        "previousClub":"Bałtyk Gdynia"
+    },
+        {
+        "name":"Dawit Schirtladze",    
+        "previousClub":"Riga FC"
+    },
+        {
+        "name":"Fabian Serrarens",    
+        "previousClub":"vbv De Graafschap"
+    },
+        {
+        "name":"Rafał Siemaszko",    
+        "previousClub":"Chojniczanka Chojnice"
+    },
+        {
+        "name":"Jakub Wilczyński",    
+        "previousClub":"Warta Poznań"
+    }
+    ],
+    "pomocnicyArka":[
+        {
+        "name":"Zawodnik",    
+        "previousClub":"Poprzedni klub:"
+    },
+        {
+        "name":"Nabil Aankour",    
+        "previousClub":"Korona Kielce"   
+    },
+        {
+        "name":"Marcin Budziński",    
+        "previousClub":"Cracovia"   
+    },
+        {
+        "name":"Azer Bušuladžić",    
+        "previousClub":"APS Atrómitos Athinón"   
+    },
+        {
+        "name":"Goran Cvijanović",    
+        "previousClub":"Korona Kielce"   
+    },
+        {
+        "name":"Adam Deja",    
+        "previousClub":"Cracovia"   
+    },
+        {
+        "name":"Nando García",    
+        "previousClub":"Extremadura UD"   
+    },
+        {
+        "name":"Maciej Jankowski",    
+        "previousClub":"Piast Gliwice"   
+    },
+        {
+        "name":"Michał Kopczyński",    
+        "previousClub":"Wellington Phoenix FC"   
+    },
+        {
+        "name":"Marcus Vinícius",    
+        "previousClub":"Orkan Rumia"   
+    },
+        {
+        "name":"Mateusz Młyński",    
+        "previousClub":"SI Arka Gdynia"   
+    },
+        {
+        "name":"Michał Nalepa",    
+        "previousClub":"Jedynka Reda"   
+    },
+        {
+        "name":"Santi Samanes",    
+        "previousClub":"Coruxo FC"   
+    },
+         {
+        "name":"Mateusz Stępień",    
+        "previousClub":"SI Arka Gdynia"   
+    },
+        {
+        "name":"Marko Vejinović",    
+        "previousClub":"AZ (Alkmaar)"   
+    }
+    ],
+    "obroncyArka":[
+       {
+        "name":"Zawodnik",    
+        "previousClub":"Poprzedni klub:"
+    },
+       {
+        "name":"Samu Araújo",    
+        "previousClub":"Club Atlético de Madrid B"
+    },
+        {
+        "name":"Adam Danch",    
+        "previousClub":"Górnik Zabrze"
+    },
+        {
+        "name":"Frederik Helstrup",    
+        "previousClub":"Helsingborgs IF"
+    },
+        {
+        "name":"Christian Maghoma",    
+        "previousClub":"Tottenham Hotspur FC"
+    },
+       {
+        "name":"Adam Marciniak",    
+        "previousClub":"AÉK (Larnaka)"
+    },
+        {
+        "name":"Luka Marić",    
+        "previousClub":"Dinamo Bukareszt"
+    },
+        {
+        "name":"Michael Olczyk",    
+        "previousClub":"Olimpia Grudziądz"
+    },
+        {
+        "name":"Jakub Wawszczyk",    
+        "previousClub":"Radomiak Radom"
+    },
+        {
+        "name":"Damian Zbozień",    
+        "previousClub":"Zagłębie Lubin"
+    }
+    ],
+    "bramkarzeArka":[
+        {
+        "name":"Zawodnik",    
+        "previousClub":"Poprzedni klub:"
+    },
+        {
+        "name":"Pāvels Šteinbors",    
+        "previousClub":"AS Néa Salamís Ammochóstou"
+    },
+        {
+        "name":"Marcin Staniszewski",    
+        "previousClub":"Puszcza Niepołomice"
+    },
+        {
+        "name":"Kacper Krzepisz",    
+        "previousClub":"-"
+    }
+    ],
+    "napastnicyCracovia":[
+        {
+        "name":"Zawodnik",    
+        "previousClub":"Poprzedni klub:"
+    },
+        {
+        "name":"Filip Piszczek",    
+        "previousClub":"Boavista FC"
+    },
+        {
+        "name":"Rubio",    
+        "previousClub":"CD Alcoyano"
+    },
+        {
+        "name":"Sebastian Strózik",    
+        "previousClub":"Pomologia Prószków"
+    },
+        {
+        "name":"Tomáš Vestenický",    
+        "previousClub":"FC Nitra"
+    },
+        {
+        "name":"Vinícius Ferreira",    
+        "previousClub":"FC Betinense"
+    }
+    ],
+    "pomocnicyCracovia":[
+        {
+        "name":"Zawodnik",    
+        "previousClub":"Poprzedni klub:"
+    },
+        {
+        "name":"Bojan Čečarić",    
+        "previousClub":"FK Spartak (Subotica)"
+    },
+        {
+        "name":"Damian Dąbrowski",    
+        "previousClub":"FC VSS Košice"
+    },
+        {
+        "name":"Janusz Gol",    
+        "previousClub":"Amkar Perm"
+    },
+        {
+        "name":"Sergiu Hanca",    
+        "previousClub":"Amkar Perm"
+    },
+        {
+        "name":"Sylwester Lusiusz",    
+        "previousClub":"Karpaty Krosno"
+    },
+        {
+        "name":"Matheus Santos",    
+        "previousClub":"FC Betinense"
+    },
+        {
+        "name":"Jaroslav Mihalík",    
+        "previousClub":"MŠK Žilina"
+    },
+        {
+        "name":"Daniel Pik",    
+        "previousClub":"MKS Polonia Warszawa"
+    },
+        {
+        "name":"Michał Rakoczy",    
+        "previousClub":"UKS 6 Jasło"
+    },
+        {
+        "name":"Mateusz Supryn",    
+        "previousClub":"Wisła Puławy"
+    },
+        {
+        "name":"Pelle van Amersfoort",    
+        "previousClub":"Wisła Puławy"
+    },
+        {
+        "name":"Mateusz Wdowiak",    
+        "previousClub":"Sandecja Nowy Sącz"
+    },
+        {
+        "name":"Patryk Zaucha",    
+        "previousClub":"Wolania Wola Rzędzińska"
+    }
+    ],
+    "obroncyCracovia":[
+       {
+        "name":"Zawodnik",    
+        "previousClub":"Poprzedni klub:"
+    },
+        {
+        "name":"Niko Datković",    
+        "previousClub":"Universitatea Craiova"
+    },
+        {
+        "name":"Diego Ferraresso",    
+        "previousClub":"Sławija Sofia"
+    },
+        {
+        "name":"Ołeksij Dytiatjew",    
+        "previousClub":"Karpaty Lwów"
+    },
+        {
+        "name":"Michał Helik",    
+        "previousClub":"Ruch Chorzów"
+    },
+        {
+        "name":"David Jablonský",    
+        "previousClub":"Lewski Sofia"
+    },
+        {
+        "name":"Kamil Pestka",    
+        "previousClub":"Chrobry Głogów"
+    },
+        {
+        "name":"Dorian Pituła",    
+        "previousClub":"Wawel Kraków"
+    },
+        {
+        "name":"Cornel Râpă",    
+        "previousClub":"Pogoń Szczecin"
+    },
+        {
+        "name":"Michal Sipľak",    
+        "previousClub":"MFK Zemplín Michalovce"
+    }
+    ],
+    "bramkarzeCracovia":[
+        {
+        "name":"Zawodnik",    
+        "previousClub":"Poprzedni klub:"
+    },
+        {
+        "name":"Lukáš Hroššo",    
+        "previousClub":"Zagłębie Sosnowiec"
+    },
+        {
+        "name":"Michal Peškovič",    
+        "previousClub":"Korona Kielce"
+    },
+        {
+        "name":"Adam Wilk",    
+        "previousClub":"Ruch Chorzów"
+    }
+    ],
+    "napastnicyGornik":[
+        {
+        "name":"Zawodnik",    
+        "previousClub":"Poprzedni klub:"
+    },
+        {
+        "name":"Kamil Zapolnik",    
+        "previousClub":"GKS Tychy"
+    },
+        {
+        "name":"Łukasz Wolsztyński",    
+        "previousClub":"Legionovia Legionowo"
+    },
+        {
+        "name":"Adam Ryczkowski",    
+        "previousClub":"Chojniczanka Chojnice"
+    },
+        {
+        "name":"Dariusz Pawłowski",    
+        "previousClub":"Bruk-Bet Termalica Nieciecza"
+    },
+        {
+        "name":"Piotr Krawczyk",    
+        "previousClub":"Legionovia Legionowo"
+    },
+        {
+        "name":"Igor Angulo",    
+        "previousClub":"AÓ Plataniá Chaníonz"
+    }
+    ],
+    "pomocnicyGornik":[
+        {
+        "name":"Zawodnik",    
+        "previousClub":"Poprzedni klub:"
+    },
+        {
+        "name":"Maciej Ambrosiewicz",    
+        "previousClub":"MFK Karviná"
+    },
+        {
+        "name":"Ishmael Baidoo",    
+        "previousClub":"Septemwri Sofia"
+    },
+        {
+        "name":"Filip Bainović",    
+        "previousClub":"FK Rad (Belgrad)"
+    },
+        {
+        "name":"Bartosz Bartczuk",    
+        "previousClub":"KS Oława"
+    },
+        {
+        "name":"Juan Bauzá",    
+        "previousClub":"Club Atlético Gimnasia y Esgrima (Mendoza)"
+    },
+        {
+        "name":"Bartłomiej Eizenchart",    
+        "previousClub":"Pogoń II Szczecin"
+    },
+        {
+        "name":"Jesús Jiménez",    
+        "previousClub":"CF Talavera de la Reina"
+    },
+        {
+        "name":"David Kopacz",    
+        "previousClub":"Pogoń II Szczecin"
+    },
+        {
+        "name":"Krzysztof Kubica",    
+        "previousClub":"-"
+    },
+        {
+        "name":"Alasana Manneh",    
+        "previousClub":"Etyr Wielkie Tyrnowo"
+    },
+        {
+        "name":"Mateusz Matras",    
+        "previousClub":"Zagłębie Lubin"
+    },
+        {
+        "name":"Szymon Matusze",    
+        "previousClub":"Dolcan Ząbki"
+    },
+        {
+        "name":"Michał Rostkowski",    
+        "previousClub":"ROW 1964 Rybnik"
+    },
+        {
+        "name":"Daniel Ściślak",    
+        "previousClub":"Dolcan Ząbki"
+    }
+    ],
+    "obroncyGornik":[
+        {
+        "name":"Zawodnik",    
+        "previousClub":"Poprzedni klub:"
+    },
+        {
+        "name":"Adam Örn Arnarson",    
+        "previousClub":"Aalesunds FK"
+    },
+        {
+        "name":"Paweł Bochniewicz",    
+        "previousClub":"Udinese Calcio"
+    },
+        {
+        "name":"Adrian Gryszkiewicz",    
+        "previousClub":"Gwarek Zabrze"
+    },
+        {
+        "name":"Karol Jaksik",    
+        "previousClub":"Sparta Lubliniec"
+    },
+        {
+        "name":"Erik Janža",    
+        "previousClub":"NK Osijek"
+    },
+        {
+        "name":"Michał Koj",    
+        "previousClub":"Ruch Chorzów"
+    },
+        {
+        "name":"Aleksander Paluszek",    
+        "previousClub":"Śląsk II Wrocław"
+    },
+        {
+        "name":"Boris Sekulić",    
+        "previousClub":"CSKA Sofia"
+    },
+        {
+        "name":"Kamil Surowiec",    
+        "previousClub":"Zieloni Żarki"
+    },
+        {
+        "name":"Przemysław Wiśniewski",    
+        "previousClub":"Stadion Śląski Chorzów"
+    }
+    ],
+    "bramkarzeZabrze":[
+        {
+        "name":"Zawodnik",    
+        "previousClub":"Poprzedni klub:"
+    },
+        {
+        "name":"Tomasz Loska",    
+        "previousClub":"Raków Częstochowa"
+    },
+        {
+        "name":"Dawid Kudła",    
+        "previousClub":"Zagłębie Sosnowiec"
+    },
+        {
+        "name":"Martin Chudý",    
+        "previousClub":"FC Spartak Trnava"
+    }
+    ],
+    "bramkarzeJagiellonia":[
+        {
+        "name":"Zawodnik",    
+        "previousClub":"Poprzedni klub:"
+    },
+        {
+        "name":"Hubert Gostomski",    
+        "previousClub":"GKS 1962 Jastrzębie"
+    },
+        {
+        "name":"Jakub Miszczuk",    
+        "previousClub":"Stomil Olsztyn"
+    },
+        {
+        "name":"Grzegorz Sandomierski",    
+        "previousClub":"Cracovia"
+    },
+        {
+        "name":"Krševan Santini",    
+        "previousClub":"NK Domžale"
+    },
+        {
+        "name":"Damian Węglarz",    
+        "previousClub":"Wigry Suwałki"
+    }
+    ],
+    "obroncyJagiellonia":[
+        {
+        "name":"Zawodnik",    
+        "previousClub":"Poprzedni klub:"
+    },
+        {
+        "name":"Zoran Arsenić",    
+        "previousClub":"Wisła Kraków"
+    },
+        {
+        "name":"Wojciech Błyszko",    
+        "previousClub":"Błękitni Stargard"
+    },
+        {
+        "name":"Böðvar Böðvarsson",    
+        "previousClub":"FH (Hafnarfjörður)"
+    },
+        {
+        "name":"Guilherme",    
+        "previousClub":"Bruk-Bet Termalica Nieciecza"
+    },
+        {
+        "name":"Andrej Kadlec",    
+        "previousClub":"FC Spartak Trnava"
+    },
+        {
+        "name":"Bartosz Kwiecień",    
+        "previousClub":"Korona Kielce"
+    },
+        {
+        "name":"Nemanja Mitrović",    
+        "previousClub":"NK Olimpija (Lublana)"
+    },
+        {
+        "name":"Michał Ozga",    
+        "previousClub":"Progres Kraków"
+    },
+       {
+        "name":"Ivan Runje",    
+        "previousClub":"AS Omónia Lefkossías"
+    },
+        {
+        "name":"Jakub Wójcicki",    
+        "previousClub":"Cracovia"
+    }
+    ],
+    "pomocnicyJagiellonia":[
+        {
+        "name":"Zawodnik",    
+        "previousClub":"Poprzedni klub:"
+    },
+        {
+        "name":"Juan Cámara",    
+        "previousClub":"Miedź Legnica"
+    },
+        {
+        "name":"Ołeh Horin",    
+        "previousClub":"FK Lwów"
+    },
+        {
+        "name":"Martin Košťál",    
+        "previousClub":"Wisła Kraków"
+    },
+        {
+        "name":"Przemysław Mystkowski",    
+        "previousClub":"Podbeskidzie Bielsko-Biała"
+    },
+        {
+        "name":"Mikołaj Nawrocki",    
+        "previousClub":"AP Jagiellonia Białystok"
+    },
+        {
+        "name":"Marko Poletanović",    
+        "previousClub":"FK Tosno"
+    },
+        {
+        "name":"Martin Pospíšil",    
+        "previousClub":"K Jablonec"
+    },
+        {
+        "name":"Taras Romanczuk",    
+        "previousClub":"Legionovia Legionowo"
+    },
+        {
+        "name":"Mile Savkovi",    
+        "previousClub":"FK Spartak (Subotica)"
+    },
+        {
+        "name":"Karol Struski",    
+        "previousClub":"Górnik Łęczna"
+    },
+        {
+        "name":"Mikołaj Wasilewski",    
+        "previousClub":"Stomil Olsztyn"
+    }
+    ],
+    "napastnicyJagiellonia":[
+        {
+        "name":"Zawodnik",    
+        "previousClub":"Poprzedni klub:"
+    },
+        {
+        "name":"Aleksander Stawiarz",    
+        "previousClub":"Escola Varsovia Warszawa"
+    },
+        {
+        "name":"Stefan Šćepović",    
+        "previousClub":"Videoton FC Fehérvár"
+    },
+        {
+        "name":"Tomáš Přikryl",    
+        "previousClub":"FK Mladá Boleslav"
+    },
+        {
+        "name":"Ognjen Mudrinski",    
+        "previousClub":"FK Čukarički (Belgrad)"
+    },
+        {
+        "name":"Patryk Klimala",    
+        "previousClub":"Wigry Suwałki"
+    },
+        {
+        "name":"Jesús Imaz",    
+        "previousClub":"Wisła Kraków"
+    },
+        {
+        "name":"Bartosz Bida",    
+        "previousClub":"Wigry Suwałki"
+    }
+    ],
+    "bramkarzeKorona":[
+        {
+        "name":"Zawodnik",    
+        "previousClub":"Poprzedni klub:"
+    },
+        {
+        "name":"Marek Kozioł",    
+        "previousClub":"Sandecja Nowy Sącz"
+    },
+        {
+        "name":"Luka Kukić",    
+        "previousClub":"NK Osijek II"
+    },
+        {
+        "name":"Jakub Osobiński",    
+        "previousClub":"Znicz Pruszków"
+    },
+        {
+        "name":"Paweł Sokół",    
+        "previousClub":"Manchester City FC"
+    }
+    ],
+    "obroncyKorona":[
+        {
+        "name":"Zawodnik",    
+        "previousClub":"Poprzedni klub:"
+    },
+        {
+        "name":"Łukasz Bujak",    
+        "previousClub":"Karpaty Krosno"
+    },
+        {
+        "name":"Michał Dziubek",    
+        "previousClub":"GKS Nowiny"
+    },
+        {
+        "name":"Daniel Dziwniel",    
+        "previousClub":"Zagłębie Lubin"
+    },
+        {
+        "name":"Łukasz Kosakiewicz",    
+        "previousClub":"Chojniczanka Chojnice"
+    },
+        {
+        "name":"Adnan Kovačević",    
+        "previousClub":"FK Sarajevo"
+    },
+        {
+        "name":"Piotr Malarczyk",    
+        "previousClub":"Cracovia"
+    },
+        {
+        "name":"Iván Márquez",    
+        "previousClub":"València CF B"
+    },
+        {
+        "name":"Nemanja G. Miletić",    
+        "previousClub":"FK Partizan (Belgrad)"
+    },
+        {
+        "name":"Piotr Pierzchała",    
+        "previousClub":"KKP Korona Kielce"
+    },
+        {
+        "name":"Mateusz Spychała",    
+        "previousClub":"Stal Mielec"
+    },
+        {
+        "name":"Grzegorz Szymusik",    
+        "previousClub":"Warta Poznań"
+    },
+        {
+        "name":"Themistoklís Tzimópoulos",    
+        "previousClub":"PAS Giánnina"
+    }
+    ],
+    "pomocnicyKorona":[
+        {
+        "name":"Zawodnik",    
+        "previousClub":"Poprzedni klub:"
+    },
+        {
+        "name":"Daniel Szelągowski",    
+        "previousClub":"KKP Korona Kielce"
+    },
+        {
+        "name":"Oktawian Skrzecz",    
+        "previousClub":"GKS Katowice"
+    },
+        {
+        "name":"Oskar Sewerzyński",    
+        "previousClub":"KKP Korona Kielce"
+    },
+        {
+        "name":"Milan Radin",    
+        "previousClub":"FK Aktobie"
+    },
+        {
+        "name":"Matej Pučko",    
+        "previousClub":"Real Oviedo CF"
+    },
+        {
+        "name":"Artur Piróg",    
+        "previousClub":"-"
+    },
+        {
+        "name":"Andrés Lioi",    
+        "previousClub":"CA Rosario Central"
+    },
+        {
+        "name":"Ivan Jukić",    
+        "previousClub":"RNK Split"
+    },
+        {
+        "name":"Ognjen Gnjatić",    
+        "previousClub":"Roda JC Kerkrade"
+    },
+        {
+        "name":"Michael Gardawski",    
+        "previousClub":"FC Hansa Rostock"
+    },
+        {
+        "name":"Uroš Đuranović",    
+        "previousClub":"FK Dukla Praga"
+    },
+        {
+        "name":"Marcin Cebula",    
+        "previousClub":"Pogoń 1945 Staszów"
+    },
+        {
+        "name":"Rodrigo Zalazar",    
+        "previousClub":"Málaga CF B"
+    },
+        {
+        "name":"Jakub Żubrowski",    
+        "previousClub":"Stal Mielec"
+    }
+    ],
+    "napastnicyKorona":[
+        {
+        "name":"Zawodnik",    
+        "previousClub":"Poprzedni klub:"
+    },  
+        {
+        "name":"Wato Arweladze",    
+        "previousClub":"Lokomotiwi Tbilisi"
+    },
+        {
+        "name":"Erik Pačinda",    
+        "previousClub":"FC Viktoria Plzeň"
+    },
+        {
+        "name":"Michal Papadopulos",    
+        "previousClub":"Piast Gliwice"
+    },
+        {
+        "name":"Mateusz Sowiński",    
+        "previousClub":"KKP Korona Kielce"
+    },
+        {
+        "name":"Michał Żyro",    
+        "previousClub":"Pogoń Szczecin"
+    }
+    ],
+    "bramkarzeLech":[
+        {
+        "name":"Zawodnik",    
+        "previousClub":"Poprzedni klub:"
+    },
+        {
+        "name":"Krzysztof Bąkowski",    
+        "previousClub":"Warta Poznań"
+    },
+        {
+        "name":"Miłosz Mleczko",    
+        "previousClub":"Puszcza Niepołomice"
+    },
+        {
+        "name":"Miłosz Mleczko",    
+        "previousClub":"Polonia Środa Wielkopolska"
+    },
+        {
+        "name":"Mickey van der Hart",    
+        "previousClub":"PEC Zwolle"
+    }
+    ],
+    "obroncyLech":[
+        {
+        "name":"Zawodnik",    
+        "previousClub":"Poprzedni klub:"
+    },
+        {
+        "name":"Đorđe Crnomarković",    
+        "previousClub":"FK Radnički (Nisz)"
+    },
+        {
+        "name":"Tomasz Dejewski",    
+        "previousClub":"Warta Poznań"
+    },
+        {
+        "name":"Robert Gumny",    
+        "previousClub":"Podbeskidzie Bielsko-Biała"
+    },
+        {
+        "name":"Wołodymyr Kostewycz",    
+        "previousClub":"Karpaty Lwów"
+    },
+        {
+        "name":"Wiktor Pleśnierowicz",    
+        "previousClub":"Kaliszanin Kalisz"
+    },
+        {
+        "name":"Tymoteusz Puchacz",    
+        "previousClub":"GKS Katowice"
+    },
+        {
+        "name":"Thomas Rogne",    
+        "previousClub":"IFK Göteborg"
+    },
+        {
+        "name":"Ľubomír Šatka",    
+        "previousClub":"FC DAC 1904 Dunajská Streda"
+    }
+    ],
+     "pomocnicyLech":[
+        {
+        "name":"Zawodnik",    
+        "previousClub":"Poprzedni klub:"
+    },
+         {
+        "name":"Tomasz Cywka",    
+        "previousClub":"Wisła Kraków"
+    },
+         {
+        "name":"Darko Jevtić",    
+        "previousClub":"FC Wacker Innsbruck"
+    },
+         {
+        "name":"Kamil Jóźwiak",    
+        "previousClub":"GKS Katowice"
+    },
+         {
+        "name":"Jakub Kamiński",    
+        "previousClub":"Szombierki Bytom"
+    },
+         {
+        "name":"Juliusz Letniowski",    
+        "previousClub":"Bytovia Bytów"
+    },
+         {
+        "name":"Maciej Makuszewski",    
+        "previousClub":"Vitória FC Setúbal"
+    },
+         {
+        "name":"Filip Marchwiński",    
+        "previousClub":"UKS Skórzewo"
+    },
+         {
+        "name":"Jakub Moder",    
+        "previousClub":"Odra Opole"
+    },
+         {
+        "name":"Karlo Muhar",    
+        "previousClub":"NK Inter (Zaprešić)"
+    },
+         {
+        "name":"Pedro Tiba",    
+        "previousClub":"GD Chaves"
+    },
+         {
+        "name":"Mateusz Skrzypczak",    
+        "previousClub":"-"
+    }
+    ],
+    "napastnicyLech":[
+        {
+        "name":"Zawodnik",    
+        "previousClub":"Poprzedni klub:"
+    },
+        {
+        "name":"Christian Gytkjær",    
+        "previousClub":"TSV München von 1860"
+    },
+        {
+        "name":"João Amaral",    
+        "previousClub":"Vitória FC Setúbal"
+    },
+        {
+        "name":"Tymoteusz Klupś",    
+        "previousClub":"-"
+    },
+        {
+        "name":"Filip Szymczak",    
+        "previousClub":"Warta Poznań"
+    },
+        {
+        "name":"Paweł Tomczyk",    
+        "previousClub":"Piast Gliwice"
+    },
+        {
+        "name":"Timur Żamaletdinow",    
+        "previousClub":"CSKA Moskwa"
+    }
+    ],
+    "bramkarzeLechia":[
+        {
+        "name":"Zawodnik",    
+        "previousClub":"Poprzedni klub:"
+    },
+        {
+        "name":"Zlatan Alomerović",    
+        "previousClub":"Korona Kielce"
+    },
+        {
+        "name":"Dušan Kuciak",    
+        "previousClub":"Hull City AFC"
+    },
+        {
+        "name":"Maciej Woźniak",    
+        "previousClub":"Nielba Wągrowiec"
+    }
+    ],
+    "obroncyLechia":[
+        {
+        "name":"Zawodnik",    
+        "previousClub":"Poprzedni klub:"
+    },
+        {
+        "name":"Błażej Augustyn",    
+        "previousClub":"Ascoli Picchio FC 1898"
+    },
+        {
+        "name":"Adam Chrzanowski",    
+        "previousClub":"Wigry Suwałki"
+    },
+        {
+        "name":"Filip Dymerski",    
+        "previousClub":"Naki Olsztyn"
+    },
+        {
+        "name":"Karol Fila",    
+        "previousClub":"Chojniczanka Chojnice"
+    },
+        {
+        "name":"Rafał Kobryń",    
+        "previousClub":"Chojniczanka Chojnice"
+    },
+        {
+        "name":"Mario Maloča",    
+        "previousClub":"SpVgg Greuther Fürth"
+    },
+        {
+        "name":"Filip Mladenović",    
+        "previousClub":"Royal Standard de Liège"
+    },
+        {
+        "name":"Michał Nalepa",    
+        "previousClub":"Ferencvárosi TC"
+    }
+    ],
+    "pomocnicyLechia":[
+        {
+        "name":"Zawodnik",    
+        "previousClub":"Poprzedni klub:"
+    },
+        {
+        "name":"Mateusz Cegiełka",    
+        "previousClub":"Stomil Olsztyn"
+    },
+        {
+        "name":"Flávio Paixão",    
+        "previousClub":"Śląsk Wrocław"
+    },
+        {
+        "name":"Maciej Gajos",    
+        "previousClub":"Lech Poznań"
+    },
+        {
+        "name":"Lukáš Haraslín",    
+        "previousClub":"Parma FC"
+    },
+        {
+        "name":"Jarosław Kubicki",    
+        "previousClub":"Zagłębie Lubin"
+    },
+        {
+        "name":"Patryk Lipski",    
+        "previousClub":"Ruch Chorzów"
+    },
+        {
+        "name":"Daniel Łukasik",    
+        "previousClub":"SV Sandhausen"
+    },
+        {
+        "name":"Tomasz Makowski",    
+        "previousClub":"Górnik Łęczna"
+    },
+        {
+        "name":"Egy Maulana Vikri",    
+        "previousClub":"Diklat Ragunan"
+    },
+        {
+        "name":"Jaroslav Mihalík",    
+        "previousClub":"Cracovia"
+    },
+        {
+        "name":"Daniel Mikołajewski",    
+        "previousClub":"Stomil Olsztyn"
+    },
+        {
+        "name":"Sławomir Peszko",    
+        "previousClub":"Wisła Kraków"
+    },
+        {
+        "name":"Adrian Petk",    
+        "previousClub":"Gedania Gdańsk"
+    },
+        {
+        "name":"Mateusz Sopoćko",    
+        "previousClub":"APLG Gdańsk"
+    },
+        {
+        "name":"Žarko Udovičić",    
+        "previousClub":"Zagłębie Sosnowiec"
+    },
+        {
+        "name":"Rafał Wolski",    
+        "previousClub":"Wisła Kraków"
+    },
+        {
+        "name":"Paweł Żuk",    
+        "previousClub":"Everton FC"
+    }
+    ],
+    "napastnicyLechia":[
+        {
+        "name":"Zawodnik",    
+        "previousClub":"Poprzedni klub:"
+    },
+        {
+        "name":"Jakub Arak",    
+        "previousClub":"Stal Mielec"
+    },
+        {
+        "name":"Artur Sobiech",    
+        "previousClub":"SV Darmstadt 98"
+    },
+        {
+        "name":"Mateusz Żukowski",    
+        "previousClub":"Pogoń Lębork"
+    }
+    ],
+    "bramkarzeLegia":[
+        {"name":"Zawodnik","previousClub":"Poprzedni klub:"},
+     {"name":"Radosław Cierzniak","previousClub":"Wisła Kraków"},
+     {"name":"Radosław Majecki","previousClub":"Stal Mielec"},
+     {"name":"Cezary Miszta","previousClub":"Zagłębie Sosnowiec"},
+     {"name":"Wojciech Muzyk","previousClub":"Olimpia Grudziądz"}
+    ],
+    "obroncyLegia":[
+        {"name":"Zawodnik","previousClub":"Poprzedni klub:"},
+    {"name":"Iñaki Astiz","previousClub":"APÓEL (Nikozja)"},
+    {"name":"Artur Jędrzejczyk","previousClub":"FK Krasnodar"},
+    {"name":"Igor Lewczuk","previousClub":"FC Girondins de Bordeaux"},
+    {"name":"Luís Rocha","previousClub":"Panetolikós GFS"},
+    {"name":"Ivan Obradović","previousClub":"RSC Anderlecht"},
+    {"name":"William Rémy","previousClub":"Montpellier-HéraultSCB"},
+    {"name":"Paweł Stolarski","previousClub":"Lechia Gdańsk"},
+    {"name":"Mateusz Wieteska","previousClub":"Górnik Zabrze"}
+    ],
+    "pomocnicyLegia":[
+        {"name":"Zawodnik","previousClub":"Poprzedni klub:"},
+    {"name":"André Martins","previousClub":"Olympiakós SFP (Pireus)"},
+    {"name":"Domagoj Antolić","previousClub":"GNK Dinamo (Zagrzeb)"},
+    {"name":"Cafú"},{"previousClub":"FC Metz B"},
+    {"name":"Walerian Gwilia","previousClub":"Górnik Zabrze"},
+    {"name":"Tomasz Jodłowiec","previousClub":"Piast Gliwice"},
+    {"name":"Michał Karbownik","previousClub":"Młodzik 18 Radom"},
+    {"name":"Kacper Kostorz","previousClub":"Podbeskidzie Bielsko-Biała"},
+    {"name":"Luquinhas","previousClub":"CD Aves"},
+    {"name":"Dominik Nagy","previousClub":"Ferencvárosi TC"},
+    {"name":"Arvydas Novikovas","previousClub":"Jagiellonia Białystok"},
+    {"name":"Mateusz Praszelik","previousClub":"Odra Centrum Wodzisław Śląski"},
+    {"name":"Salvador Agra","previousClub":"Cádiz CF"},
+    {"name":"Marko Vešović","previousClub":"HNK Rijeka"},
+    {"name":"Paweł Wszołek","previousClub":"Queens Park Rangers FC"}
+    ],
+    "napastnicyLegia":[
+        {"name":"Zawodnik","previousClub":"Poprzedni klub:"},
+    {"name":"José Kanté","previousClub":"Club Gimnàstic de Tarragona"},
+    {"name":"Jarosław Niezgoda","previousClub":"Ruch Chorzów"},
+    {"name":"Maciej Rosołek","previousClub":"Pogoń Siedlce"},
+    {"name":"Vamara Sanogo","previousClub":"Zagłębie Sosnowiec"}
+    ],
+    
+    "bramkarzeLKS":[
+        {"name":"Zawodnik","previousClub":"Poprzedni klub:"},
+    {"name":"Dawid Arndt","previousClub":"Mazovia Tomaszów Mazowiecki"},
+    {"name":"Dominik Budzyński","previousClub":"Śląsk Wrocław"},
+    {"name":"Michał Kołba","previousClub":"Pogoń Grodzisk Mazowiecki"},
+    {"name":"Arkadiusz Malarz","previousClub":"Legia Warszawa"}
+    ],
+    "obroncyLKS":[
+        {"name":"Zawodnik","previousClub":"Poprzedni klub:"},
+    {"name":"Artur Bogusz","previousClub":"Wigry Suwałki"},
+    {"name":"Maciej Dampc","previousClub":"Bytovia Bytów"},
+    {"name":"Jan Grzesik","previousClub":"Siarka Tarnobrzeg"},
+    {"name":"Kamil Juraszek","previousClub":"Lechia Dzierżoniów"},
+    {"name":"Adrian Klimczak","previousClub":"Arka Gdynia"},
+    {"name":"Kamil Rozmus","previousClub":"Wigry Suwałki"},
+    {"name":"Maksymilian Rozwandowicz","previousClub":"Chrobry Głogów"},
+    {"name":"Jan Sobociński","previousClub":"Gryf Wejherowo"}
+    ],
+    "pomocnicyLKS":[
+        {"name":"Zawodnik","previousClub":"Poprzedni klub:"},
+    {"name":"Patryk Bryła","previousClub":"Okocimski KS Brzesko"},
+    {"name":"Bartłomiej Kalinkowski","previousClub":"GKS Katowice"},
+    {"name":"Wojciech Łuczak","previousClub":"Zagłębie Sosnowiec"},
+    {"name":"Łukasz Piątek","previousClub":"Bruk-Bet Termalica Nieciecza"},
+    {"name":"Pirulo","previousClub":"Real Balompédica Linense"},
+    {"name":"Piotr Pyrdoł","previousClub":"UKS SMS Łódź"},
+    {"name":"Dani Ramírez","previousClub":"Stomil Olsztyn"},
+    {"name":"Adam Ratajczyk","previousClub":"Znicz Pruszków"},
+    {"name":"Ricardo Guima","previousClub":"Associação Académica de Coimbra"},
+    {"name":"Przemysław Sajdak","previousClub":"Puszcza Niepołomice"},
+    {"name":"Artur Sójka","previousClub":"Mazovia Tomaszów Mazowiecki"},
+    {"name":"Dragoljub Srnić","previousClub":"FK Voždovac (Belgrad)"},
+    {"name":"Michał Trąbka","previousClub":"Stal Stalowa Wola"},
+    {"name":"Maciej Wolski","previousClub":"Olimpia Grudziądz"}
+    ],
+    "napastnicyLKS":[
+        {"name":"Zawodnik","previousClub":"Poprzedni klub:"},
+    {"name":"Rafał Kujawa","previousClub":"Stomil Olsztyn"},
+    {"name":"Jewhen Radionow","previousClub":"Świt Nowy Dwór Mazowiecki"},
+    {"name":"Łukasz Sekulski","previousClub":"SKA Chabarowsk"}
+    ],
+     "bramkarzePiast":[
+         {"name":"Zawodnik","previousClub":"Poprzedni klub:"},
+    {"name":"Patryk Królczyk","previousClub":"Warta Gorzów Wielkopolski"},
+    {"name":"František Plach","previousClub":"FK Senica"},
+    {"name":"Jakub Szmatuła","previousClub":"Górnik Zabrze"}
+    ],
+    "obroncyPiast":[
+        {"name":"Zawodnik","previousClub":"Poprzedni klub:"},
+     {"name":"Damian Byrtek","previousClub":"Wisła Płock"},
+    {"name":"Jakub Czerwiński","previousClub":"Legia Warszawa"},
+    {"name":"Jakub Holúbek","previousClub":"MŠK Žilina B"},
+    {"name":"Tomáš Huk","previousClub":"FC DAC 1904 Dunajská Streda"},
+    {"name":"Mikkel Kirkeskov","previousClub":"Aalesunds FK"},
+    {"name":"Martin Konczkowski","previousClub":"Ruch Chorzów"},
+    {"name":"Uroš Korun","previousClub":"NK Domžale"},
+    {"name":"Piotr Malarczyk","previousClub":"Korona Kielce"},
+    {"name":"Tomasz Mokwa","previousClub":"GKS Katowice"},
+    {"name":"Marcin Pietrowski","previousClub":"Lechia Gdańsk"},
+    {"name":"Bartosz Rymaniak","previousClub":"Korona Kielce"},
+    {"name":"Adam Tymiński","previousClub":"-"}  
+    ],
+    "pomocnicyPiast":[
+        {"name":"Zawodnik","previousClub":"Poprzedni klub:"},
+    {"name":"Gerard Badía","previousClub":"SD Noja"},
+    {"name":"Remigiusz Borkała","previousClub":"-"},
+    {"name":"Patryk Dziczek","previousClub":"-"},
+    {"name":"Denis Gojko","previousClub":"Stal Mielec"},
+    {"name":"Tom Hateley","previousClub":"Dundee FC"},
+    {"name":"Aleksander Jagiełło","previousClub":"Znicz Pruszków"},
+    {"name":"Tomasz Jodłowiec","previousClub":"Legia Warszawa"},
+    {"name":"Jorge Félix","previousClub":"Club Lleida Esportiu"},
+    {"name":"Sebastian Milewski","previousClub":"Zagłębie Sosnowiec"},
+    {"name":"Michał Rakowiecki","previousClub":"Sośnica Gliwice"},
+    {"name":"Patryk Sokołowski","previousClub":"Wigry Suwałki"},
+    {"name":"Tiago Alves","previousClub":"Olimpia Grudziądz"},
+    {"name":"Joel Valencia","previousClub":"FC Koper"}     
+    ],
+    "napastnicyPiast":[
+        {"name":"Zawodnik","previousClub":"Poprzedni klub:"},
+    {"name":"Dani Aquino","previousClub":"AÉK (Larnaka)"},
+    {"name":"Łukasz Krakowczyk","previousClub":"GKS 1962 Jastrzębie"},
+    {"name":"Piotr Parzyszek","previousClub":"PEC Zwolle"},
+    {"name":"Karol Stanek","previousClub":"Widzew Łódź"},
+    {"name":"Dominik Steczyk","previousClub":"1.FC Nürnberg VfL II"},
+    {"name":"Patryk Tuszyński","previousClub":"Zagłębie Lubin"}   
+    ],
+    "bramkarzePogon":[
+        {"name":"Zawodnik","previousClub":"Poprzedni klub:"},
+    {"name":"Jakub Bursztyn","previousClub":"UKS SMS Łódź"},
+    {"name":"Jędrzej Grobelny","previousClub":"Warta Poznań"},
+    {"name":"Daniel Kusztan","previousClub":"Kotwica Kołobrzeg"},
+    {"name":"Dante Stipica","previousClub":"CSKA Sofia"},
+    {"name":"Nikodem Sujecki","previousClub":"AP Pogoń Szczecin"}
+    ],
+    "obroncyPogon":[
+        {"name":"Zawodnik","previousClub":"Poprzedni klub:"},
+    {"name":"Jakub Bartkowski","previousClub":"Wisła Kraków"},
+    {"name":"Igor Łasicki","previousClub":"Wisła Płock"},
+    {"name":"Mariusz Malec","previousClub":"Podbeskidzie Bielsko-Biała"},
+    {"name":"Hubert Matynia","previousClub":"Vineta Wolin"},
+    {"name":"Ricardo Nunes","previousClub":"Lewski Sofia"},
+    {"name":"David Stec","previousClub":"SK Niederösterreich Sankt Pölten"},
+    {"name":"Kóstas Triantafyllópoulos","previousClub":"AGS Astéras Trípolis"},
+    {"name":"Benedikt Zech","previousClub":"SC Rheindorf Altach"}
+    ],
+    "pomocnicyPogon":[
+        {"name":"Zawodnik","previousClub":"Poprzedni klub:"},
+    {"name":"Damian Dąbrowski","previousClub":"Cracovia"},
+    {"name":"Kamil Drygas","previousClub":"Zawisza Bydgoszcz"},
+    {"name":"Iker Guarrotxena","previousClub":"Cultural y Deportiva Leonesa"},
+    {"name":"Tomasz Hołota","previousClub":"DSC Arminia Bielefeld"},
+    {"name":"Sebastian Kowalczyk","previousClub":"AP Pogoń Szczecin"},
+    {"name":"Kacper Kozłowski","previousClub":"AP Pogoń Szczecin"},
+    {"name":"Zvonimir Kožulj","previousClub":"HNK Hajduk (Split)"},
+    {"name":"Damian Pawłowski","previousClub":"Wigry Suwałki"},
+    {"name":"Kacper Smoliński","previousClub":"AP Pogoń Szczecin"},
+    {"name":"Srđan Spiridonović","previousClub":"Paniónios GSS"},
+    {"name":"Błażej Starzycki","previousClub":"Błękitni Stargard"},
+    {"name":"Tomás Podstawski","previousClub":"Vitória FC Setúbal"},
+    {"name":"Marcel Wędrychowski","previousClub":"AP Pogoń Szczecin"},
+    {"name":"Maciej Żurawski","previousClub":"Włókniarz Toruń"} 
+    ],
+    "napastnicyPogon":[
+        {"name":"Zawodnik","previousClub":"Poprzedni klub:"},
+    {"name":"Adrian Benedyczak","previousClub":"AP Pogoń Szczecin"},
+    {"name":"Soufian Benyamina","previousClub":"FC Hansa Rostock"},
+    {"name":"Adam Buksa","previousClub":"Zagłębie Lubin"},
+    {"name":"Adam Frączczak","previousClub":"Kotwica Kołobrzeg"},
+    {"name":"Santeri Hostikka","previousClub":"FC Lahti"},
+    {"name":"Marcin Listkowski","previousClub":"Raków Częstochowa"},
+    {"name":"Michális Maniás","previousClub":"AGS Astéras Trípolis"},
+    {"name":"Hubert Turski","previousClub":"AP Pogoń Szczecin"} 
+    ],
+    "bramkarzeRakow":[
+        {"name":"Zawodnik","previousClub":"Poprzedni klub:"},
+    {"name":"Michał Gliwa","previousClub":"Sandecja Nowy Sącz"},
+    {"name":"Jakub Szumski","previousClub":"Legia Warszawa"},
+    {"name":"Kacper Trelowski","previousClub":"APN Częstochowa"}
+    ],
+    "obroncyRakow":[
+        {"name":"Zawodnik","previousClub":"Poprzedni klub:"},
+    {"name":"Emir Azemović","previousClub":"FK Zemun (Belgrad)"},
+    {"name":"Jarosław Jach","previousClub":"Sheriff Tiraspol"},
+    {"name":"Arkadiusz Kasperkiewicz","previousClub":"Górnik Łęczna"},
+    {"name":"Kamil Kościelny","previousClub":"Wigry Suwałki"},
+    {"name":"Oskar Krzyżak","previousClub":"APN Częstochowa"},
+    {"name":"Andrzej Niewulis","previousClub":"Znicz Pruszków"},
+    {"name":"Tomáš Petrášek","previousClub":"FK Viktoria Žižkov(Praga)"},
+    {"name":"Kamil Piątkowski","previousClub":"Zagłębie Lubin"}  
+    ],
+    "pomocnicyRakow":[
+        {"name":"Zawodnik","previousClub":"Poprzedni klub:"},
+    {"name":"Jakub Apolinarski","previousClub":"Polonia Środa Wielkopolska"},
+    {"name":"Rusłan Babenko","previousClub":"Czornomoreć Odessa"},
+    {"name":"Daniel Bartl","previousClub":"FC Slovan Liberec"},
+    {"name":"Felicio Brown Forbes","previousClub":"Korona Kielce"},
+    {"name":"Maciej Domański","previousClub":"Puszcza Niepołomice"},
+    {"name":"Patryk Kun","previousClub":"Arka Gdynia"},
+    {"name":"Andrija Luković","previousClub":"FK Voždovac (Belgrad)"},
+    {"name":"Piotr Malinowski","previousClub":"Podbeskidzie Bielsko-Biała"},
+    {"name":"Bryan Nouvier","previousClub":"Sepsi OSK Sfântu Gheorghe"},
+    {"name":"Igor Sapała","previousClub":"GKS Katowice"},
+    {"name":"Petr Schwarz","previousClub":"FC Hradec Králové"},
+    {"name":"Michał Skóraś","previousClub":"Bruk-Bet Termalica Nieciecza"},
+    {"name":"Miłosz Szczepański","previousClub":"Legia Warszawa"},
+    {"name":"Dawid Szymonowicz","previousClub":"Bruk-Bet Termalica Nieciecza"}  
+    ],
+    "napastnicyRakow":[
+        {"name":"Zawodnik","previousClub":"Poprzedni klub:"},
+    {"name":"Aleksandyr Kolew","previousClub":"Arka Gdynia"},
+    {"name":"Szymon Lewicki","previousClub":"Zagłębie Sosnowiec"},
+    {"name":"Sebastian Musiolik","previousClub":"ROW 1964 Rybnik"}    
+    ],
+    "bramkarzeSlask":[
+        {"name":"Zawodnik","previousClub":"Poprzedni klub:"},
+    {"name":"Daniel Kajzer","previousClub":"Botew Płowdiw"},
+    {"name":"Matúš Putnocký","previousClub":"Lech Poznań"},
+    {"name":"Dariusz Szczerbal","previousClub":"Piast Żmigród"}
+    ],
+    "obroncySlask":[
+        {"name":"Zawodnik","previousClub":"Poprzedni klub:"},
+    {"name":"Łukasz Broź","previousClub":"Legia Warszawa"},
+    {"name":"Piotr Celeban","previousClub":"FC Vaslui"},
+    {"name":"Mateusz Cholewiak","previousClub":"Stal Mielec"},
+    {"name":"Kamil Dankowski","previousClub":"FC Wrocław Academy Wrocław"},
+    {"name":"Wojciech Golla","previousClub":"NEC (Nijmegen)"},
+    {"name":"Mateusz Hołownia","previousClub":"Legia Warszawa"},
+    {"name":"Paweł Kucharczyk","previousClub":"Ślęza Wrocław"},
+    {"name":"Mariusz Pawelec","previousClub":"Górnik Zabrze"},
+    {"name":"Konrad Poprawa","previousClub":"Skra Częstochowa"},
+    {"name":"Israel Puerto","previousClub":"RC Recreativo de Huelva"},
+    {"name":"Dino Štiglec","previousClub":"NK Olimpija (Lublana)"}
+    ],
+    "pomocnicySlask":[
+        {"name":"Zawodnik","previousClub":"Poprzedni klub:"},
+    {"name":"Przemysław Bargiel","previousClub":"AC Spezia 1906"},
+    {"name":"Bartosz Boruń","previousClub":"Polonia Miłoszyce"},
+    {"name":"Michał Chrapek","previousClub":"Lechia Gdańsk"},
+    {"name":"Damian Gąska","previousClub":"Wigry Suwałki"},
+    {"name":"Jakub Łabojko","previousClub":"Raków Częstochowa"},
+    {"name":"Adrian Łyszczarz","previousClub":"GKS Katowice"},
+    {"name":"Krzysztof Mączyński","previousClub":"Legia Warszawa"},
+    {"name":"Lubambo Musonda","previousClub":"Gandzasar Kapan"},
+    {"name":"Maciej Pałaszewski","previousClub":"Stomil Olsztyn"},
+    {"name":"Róbert Pich","previousClub":"1 FC Kaiserslautern"},
+    {"name":"Przemysław Płacheta","previousClub":"Podbeskidzie Bielsko-Biała"},
+    {"name":"Mateusz Radecki","previousClub":"Wigry Suwałki"},
+    {"name":"Diego Živulić","previousClub":"Páfos FC"}
+    ],
+    "napastnicySlask":[
+        {"name":"Zawodnik","previousClub":"Poprzedni klub:"},
+    {"name":"Sebastian Bergier","previousClub":"Wigry Suwałki"},
+    {"name":"Erik Expósito","previousClub":"UD Las Palmas Atlético"},
+    {"name":"Filip Marković","previousClub":"RC Lens"},
+    {"name":"Piotr Samiec-Talar","previousClub":"Polonia Środa Śląska"},
+    {"name":"Daniel Szczepan","previousClub":"GKS 1962 Jastrzębie (Jastrzębie Zdrój)"}
+    ],
+    "bramkarzeWislaKrakow":[
+        {"name":"Zawodnik","previousClub":"Poprzedni klub:"},
+    {"name":"Kais Al-Ani","previousClub":"Soła Oświęcim"},
+    {"name":"Kamil Broda","previousClub":"Wawel Kraków"},
+    {"name":"Michał Buchalik","previousClub":"Ruch Chorzów"},
+    {"name":"Mateusz Lis","previousClub":"Raków Częstochowa"}    
+    ],
+    "obroncyWislaKrakow":[
+        {"name":"Zawodnik","previousClub":"Poprzedni klub:"},
+    {"name":"Jakub Bartosz","previousClub":"Sandecja Nowy Sącz"},
+    {"name":"Łukasz Burliga","previousClub":"Jagiellonia Białystok"},
+    {"name":"Marcin Grabowski","previousClub":"Lech II Poznań"},
+    {"name":"Daniel Hoyo-Kowalski","previousClub":"CE Europa"},
+    {"name":"Rafał Janicki","previousClub":"Lech Poznań"},
+    {"name":"Lukas Klemenz","previousClub":"Jagiellonia Białystok"},
+    {"name":"David Niepsuj","previousClub":"Pogoń Szczecin"},
+    {"name":"Maciej Sadlok","previousClub":"Ruch Chorzów"},
+    {"name":"Dawid Szot","previousClub":"Progres Kraków"},
+    {"name":"Serafin Szota","previousClub":"Odra Opole"},
+    {"name":"Piotr Świątko","previousClub":"Hutnik Kraków"},
+    {"name":"Marcin Wasilewski","previousClub":"Leicester City FC"}   
+    ],
+    "pomocnicyWislaKrakow":[
+        {"name":"Zawodnik","previousClub":"Poprzedni klub:"},
+    {"name":"Vullnet Basha","previousClub":"UCAM Murcia CF"},
+    {"name":"Jakub Błaszczykowski","previousClub":"VfL Wolfsburg"},
+    {"name":"Rafał Boguski","previousClub":"GKS Bełchatów"},
+    {"name":"Chuca","previousClub":"Villarreal CF B"},
+    {"name":"Emmanuel Kumah","previousClub":"Tudu Mighty Jets FC"},
+    {"name":"Michał Mak","previousClub":"Lechia Gdańsk"},
+    {"name":"Daniel Morys","previousClub":"Prądniczanka Kraków"},
+    {"name":"Patryk Moskiewicz","previousClub":"AKS SMS Łódź"},
+    {"name":"Damian Pawłowski","previousClub":"Pogoń Szczecin"},
+    {"name":"Patryk Plewka","previousClub":"Janina Libiąż"},
+    {"name":"Vukan Savićević","previousClub":"ŠK Slovan Bratysława"},
+    {"name":"Kamil Wojtkowski","previousClub":"RB Leipzig"}
+        
+    ],
+    "napastnicyWislaKrakow":[
+        {"name":"Zawodnik","previousClub":"Poprzedni klub:"},
+    {"name":"Artur Balicki","previousClub":"Ruch Chorzów"},
+    {"name":"Denys Bałaniuk","previousClub":"Arsenał Kijów"},
+    {"name":"Paweł Brożek","previousClub":"RC Recreativo de Huelva"},
+    {"name":"Aleksander Buksa","previousClub":"AP 21 Kraków"},
+    {"name":"Krzysztof Drzazga","previousClub":"Puszcza Niepołomice"},
+    {"name":"Jean Carlos Silva","previousClub":"Club Recreativo Granada"},
+    {"name":"Przemysław Zdybowicz","previousClub":"GKS Bełchatów"}       
+    ],
+    "bramkarzeWislaPlock":[
+        {"name":"Zawodnik","previousClub":"Poprzedni klub:"},
+    {"name":"Thomas Dähne","previousClub":"HJK"},
+    {"name":"Adrian Tokarski","previousClub":"SSM Wisła Płock"},
+    {"name":"Jakub Wrąbel","previousClub":"Śląsk Wrocław"},
+    {"name":"Marcel Zapytowski","previousClub":"-"},
+    {"name":"Bartłomiej Żynel","previousClub":"FC Liefering"}
+    ],
+    "obroncyWislaPlock":[
+        {"name":"Zawodnik","previousClub":"Poprzedni klub:"},
+    {"name":"Jarosław Fojut","previousClub":"Pogoń Szczecin"},
+    {"name":"Ángel García","previousClub":"Cultural y Deportiva Leonesa"},
+    {"name":"Michał Marcjanik","previousClub":"Carpi FC 1909"},
+    {"name":"Damian Michalski","previousClub":"GKS Bełchatów"},
+    {"name":"Jakub Rzeźniczak","previousClub":"Qarabağ Ağdam"},
+    {"name":"Bartłomiej Sielewski","previousClub":"Piast Gliwice"},
+    {"name":"Cezary Stefańczyk","previousClub":"Bogdanka Łęczna"},
+    {"name":"Patryk Stępiński","previousClub":"Widzew Łódź"},
+    {"name":"Piotr Tomasik","previousClub":"Lech Poznań"}
+    ],
+    "pomocnicyWislaPlock":[
+        {"name":"Zawodnik","previousClub":"Poprzedni klub:"},
+    {"name":"Hubert Adamczyk","previousClub":"GKS Tychy"},
+    {"name":"Maciej Ambrosiewicz","previousClub":"Górnik Zabrze"},
+    {"name":"Dominik Furman","previousClub":"Hellas Verona FC"},
+    {"name":"Riccardo Grym","previousClub":"Wisła Kraków"},
+    {"name":"Mikołaj Kwietniewski","previousClub":"Bytovia Bytów"},
+    {"name":"Patryk Leszczyński","previousClub":"SSM Wisła Płock"},
+    {"name":"Giorgi Merebaszwili","previousClub":"APÓ Levadiakós"},
+    {"name":"Titas Milašius","previousClub":"Escola Varsovia Warszawa"},
+    {"name":"Aleksander Pawlak","previousClub":"SSM Wisła Płock"},
+    {"name":"Damian Rasak","previousClub":"Miedź Legnica"},
+    {"name":"Suad Sahiti","previousClub":"Septemwri Sofia"},
+    {"name":"Maciej Spychała","previousClub":"GKS 1962 Jastrzębie"},
+    {"name":"Alen Stevanović","previousClub":"Shonan Bellmare"},
+    {"name":"Mateusz Szwoch","previousClub":"Arka Gdynia"},
+    {"name":"Alan Uryga","previousClub":"Wisła Kraków"}
+        
+    ],
+    "napastnicyWislaPlock":[
+        {"name":"Zawodnik","previousClub":"Poprzedni klub:"},
+    {"name":"Karol Angielski","previousClub":"Piast Gliwice"},
+    {"name":"Grzegorz Kuświk","previousClub":"Stal Mielec"},
+    {"name":"Olaf Nowak","previousClub":"Zagłębie Sosnowiec"},
+    {"name":"Ricardinho","previousClub":"FK Tosno"},
+    {"name":"Adrian Szczutowski","previousClub":"SSM Wisła Płock"},
+    {"name":"Oskar Zawada","previousClub":"Karlsruher SC"}  
+    ],
+    "bramkarzeZaglebie":[
+        {"name":"Zawodnik","previousClub":"Poprzedni klub:"},
+    {"name":"Kacper Bieszczad","previousClub":"Karpaty Krosno"},
+    {"name":"Konrad Forenc","previousClub":"Calisia Kalisz"},
+    {"name":"Dominik Hładun","previousClub":"Chojniczanka Chojnice"},
+    {"name":"Mateusz Kuchta","previousClub":"Odra Opole"}
+    ],
+    "obroncyZaglebie":[
+        {"name":"Zawodnik","previousClub":"Poprzedni klub:"},
+    {"name":"Saša Balić","previousClub":"FK Sarajevo"},
+    {"name":"Michał Bogacz","previousClub":"Polonia Środa Śląska"},
+    {"name":"Alan Czerwiński","previousClub":"GKS Katowice"},
+    {"name":"Maciej Dąbrowski","previousClub":"Legia Warszawa"},
+    {"name":"Ľubomír Guldan","previousClub":"Łudogorec Razgrad"},
+    {"name":"Dominik Jończy","previousClub":"Podbeskidzie Bielsko-Biała"},
+    {"name":"Bartosz Kopacz","previousClub":"Górnik Zabrze"},
+    {"name":"Damian Oko","previousClub":"Chrobry Nowogrodziec"},
+    {"name":"Maciej Warpas","previousClub":"MKP Wołów"}
+    ],
+    "pomocnicyZaglebie":[
+        {"name":"Zawodnik","previousClub":"Poprzedni klub:"},
+    {"name":"Damjan Bohar","previousClub":"NK Maribor"},
+    {"name":"Daniel Dudziński","previousClub":"AP Reissa Poznań"},
+    {"name":"Kamil Mazek","previousClub":"Stomil Olsztyn"},
+    {"name":"Patryk Mucha","previousClub":"UKP Zielona Góra"},
+    {"name":"Dawid Pakulski","previousClub":"Górnik Wałbrzych"},
+    {"name":"Bartłomiej Pawłowski","previousClub":"Lechia Gdańsk"},
+    {"name":"Łukasz Poręba","previousClub":"-"},
+    {"name":"Bartosz Slisz","previousClub":"ROW 1964 Rybnik"},
+    {"name":"Łukasz Soszyński","previousClub":"-"},
+    {"name":"Filip Starzyński","previousClub":"KSC Lokeren Oost-Vlaanderen"},
+    {"name":"Asmir Suljić","previousClub":"NK Olimpija (Lublana)"},
+    {"name":"Mátyás Tajti","previousClub":"Diósgyőri VTK"},
+    {"name":"Jakub Tosik","previousClub":"Jagiellonia Białystok"},
+    {"name":"Saša Živec","previousClub":"AS Omónia Lefkossías"},
+    {"name":"Paweł Żyra","previousClub":"Chojniczanka Chojnice"}
+    ],
+    "napastnicyZaglebie":[
+        {"name":"Zawodnik","previousClub":"Poprzedni klub:"},
+    {"name":"Bartosz Białek","previousClub":"MKS Oława"},
+    {"name":"Rok Sirk","previousClub":"NŠ Mura (Murska Sobota)"},
+    {"name":"Patryk Szysz","previousClub":"Górnik Łęczna"},
+    {"name":"Patryk Tuszyński","previousClub":"Çaykur Rizespor Kulübü"}  
+    ]
+}
+
