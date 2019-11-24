@@ -1,1 +1,1 @@
-# Vademecum-Kibica
+Serwis przeznaczony dla kibiców polskiej ligi na szczeblach od Ekstrakasy do 3 ligi. Na stronie obecnie znaleźć można informacje o klubach ekstraklasy, newsy z odnośnikami do ich źródeł, tabele, strefe kibica. Strona będzie stopniowo rozwijana o kolejne ligi.
