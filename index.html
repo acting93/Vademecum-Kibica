@@ -1,518 +1,656 @@
 <!DOCTYPE Html>
 <html lang="pl">
+
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width initial-scale=1.0 shrink-to-fit=no">
     <meta name="description" content="vademecum klubów piłkarskich ligi polskiej">
-    <meta name="keywords" content="ekstraklasa,1liga,2liga"> 
+    <meta name="keywords" content="ekstraklasa,1liga,2liga">
     <meta name="autor" content="Wojciech Żuwalski">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Vademecum Kibica</title>
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="styles.css" type="text/css">
-    <link rel="stylesheet/less" href="styles.less" type="text/css"> 
+    <link rel="stylesheet/less" href="styles.less" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Cabin|Kanit&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
+
 <body onload="$(window).resize()">
-   <div class="container-fluid">
-       <div class="row">
-           <header class="col-12">
-              <div class="col-12 col-xl-10" id="headerContent">
-                   <div id="namePage"><a href="index.html"><p id="vad">Vademecum Kibica</p></a></div>
-                   <div id="logos">
-                       <p id="textsmallscreen">Ekstraklasa - 1 liga - 2 liga - 3 liga</p>
-                       <img src="1liga.png" id="liga1">
-                       <img src="2liga.png" id="liga2">
-                       <img src="pkoekstraklasa.png" id="ex">
-                   </div>
-              </div>
-           </header>
-           <nav class="navbar navbar-expand-lg col-12 col-xl-12" id="navigation">
-               <button class="navbar-toggler navbar-light" data-toggle="collapse" data-target="#menu" id="navbarBtn">
-                   <span class="navbar-toggler-icon"></span>
-               </button> 
+    <div class="container-fluid">
+        <div class="row">
+            <header class="col-12">
+                <div class="col-12 col-xl-10" id="headerContent">
+                    <div id="namePage"><a href="index.html">
+                            <p id="vad">Vademecum Kibica</p>
+                        </a></div>
+                    <div id="logos">
+                        <p id="textsmallscreen">Ekstraklasa - 1 liga - 2 liga - 3 liga</p>
+                        <img src="1liga.png" id="liga1">
+                        <img src="2liga.png" id="liga2">
+                        <img src="pkoekstraklasa.png" id="ex">
+                    </div>
+                </div>
+            </header>
+            <nav class="navbar navbar-expand-lg col-12 col-xl-12" id="navigation">
+                <button class="navbar-toggler navbar-light" data-toggle="collapse" data-target="#menu" id="navbarBtn">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
                 <div class="collapse navbar-collapse" id="menu">
                     <ul class="navbar-nav">
                         <li class="nav-item">
                             <a class="nav-link" data-toggle="dropdown">EKSTRAKLASA</a>
-                             <div class="dropdown-menu col-sm-12">
-                                <div class="eksDiv">    
-                                    <a href=""><p class="eksText">EKSTRAKLASA</p></a>
-                                    <a href=""><p class="eksText">Tabela</p></a>
-                                    <a href=""><p class="eksText">Strzelcy</p></a>
+                            <div class="dropdown-menu col-sm-12">
+                                <div class="eksDiv">
+                                    <a href="">
+                                        <p class="eksText">EKSTRAKLASA</p>
+                                    </a>
+                                    <a href="">
+                                        <p class="eksText">Tabela</p>
+                                    </a>
+                                    <a href="">
+                                        <p class="eksText">Strzelcy</p>
+                                    </a>
                                 </div>
-                                <div class="eksDiv">   
-                                    <a href="ArkaGdynia.html"><div class="imgBox"><img src="image-ekstraklasa/arka%20.PNG" class="eksimg" id="arka"></div></a>
-                                    <a href="cracovia.html"><div class="imgBox"><img src="image-ekstraklasa/cracovia.png" class="eksimg" id="cracovia"></div></a>
-                                    <a href="zabrze.html"><div class="imgBox"><img src="image-ekstraklasa/gornik_zabrze.png" id="gornik" width="50px"></div></a>
-                                    <a href="jagiellonia.html"><div class="imgBox"><img src="image-ekstraklasa/jagiellonia.png" class="eksimg" id="jaga"></div></a>
-                                    <a href="korona.html"><div class="imgBox"><img src="image-ekstraklasa/korona_kielce.png" class="eksimg" id="korona"></div></a>
-                                    <a href="lech.html"><div class="imgBox"><img src="image-ekstraklasa/lech.png" class="eksimg" id="lech"></div></a>
-                                    <a href="lechia.html"><div class="imgBox"><img src="image-ekstraklasa/lechia_gdansk.png" class="eksimg" id="lechia"></div></a>
-                                    <a href="legia.html"><div class="imgBox"><img src="image-ekstraklasa/legia.png" class="eksimg" id="legia"></div></a>
-                                    <a href="lks.html"><div class="imgBox"><img src="image-ekstraklasa/lkslodz.png" class="eksimg" id="lks"></div></a>
-                                    <a href="piast.html"><div class="imgBox"><img src="image-ekstraklasa/piast_gliwice.png" id="piast" width="58px"></div></a>
-                                    <a href="pogon.html"><div class="imgBox"><img src="image-ekstraklasa/pogon_szczecin.png" class="eksimg" id="pogon"></div></a>
-                                    <a href="rakow.html"><div class="imgBox"><img src="image-ekstraklasa/rakow.png" class="eksimg" id="rakow"></div></a>
-                                    <a href="slask.html"><div class="imgBox"><img src="image-ekstraklasa/slask.png" id="slask" width="58px"></div></a>
-                                    <a href="wis%C5%82aKrak%C3%B3w.html"><div class="imgBox"><img src="image-ekstraklasa/wisla.png" class="eksimg" id="wisla"></div></a>
-                                    <a href="wis%C5%82aP%C5%82ock.html"><div class="imgBox"><img src="image-ekstraklasa/wisla_plock.png" class="eksimg" id="wislaP"></div></a>
-                                    <a href="zaglebie.html"><div class="imgBox"><img src="image-ekstraklasa/zaglebie_lubin.png" class="eksimg" id="zaglebie"></div></a>
+                                <div class="eksDiv">
+                                    <a href="ArkaGdynia.html">
+                                        <div class="imgBox"><img src="image-ekstraklasa/arka%20.PNG" class="eksimg" id="arka"></div>
+                                    </a>
+                                    <a href="cracovia.html">
+                                        <div class="imgBox"><img src="image-ekstraklasa/cracovia.png" class="eksimg" id="cracovia"></div>
+                                    </a>
+                                    <a href="zabrze.html">
+                                        <div class="imgBox"><img src="image-ekstraklasa/gornik_zabrze.png" id="gornik" width="50px"></div>
+                                    </a>
+                                    <a href="jagiellonia.html">
+                                        <div class="imgBox"><img src="image-ekstraklasa/jagiellonia.png" class="eksimg" id="jaga"></div>
+                                    </a>
+                                    <a href="korona.html">
+                                        <div class="imgBox"><img src="image-ekstraklasa/korona_kielce.png" class="eksimg" id="korona"></div>
+                                    </a>
+                                    <a href="lech.html">
+                                        <div class="imgBox"><img src="image-ekstraklasa/lech.png" class="eksimg" id="lech"></div>
+                                    </a>
+                                    <a href="lechia.html">
+                                        <div class="imgBox"><img src="image-ekstraklasa/lechia_gdansk.png" class="eksimg" id="lechia"></div>
+                                    </a>
+                                    <a href="legia.html">
+                                        <div class="imgBox"><img src="image-ekstraklasa/legia.png" class="eksimg" id="legia"></div>
+                                    </a>
+                                    <a href="lks.html">
+                                        <div class="imgBox"><img src="image-ekstraklasa/lkslodz.png" class="eksimg" id="lks"></div>
+                                    </a>
+                                    <a href="piast.html">
+                                        <div class="imgBox"><img src="image-ekstraklasa/piast_gliwice.png" id="piast" width="58px"></div>
+                                    </a>
+                                    <a href="pogon.html">
+                                        <div class="imgBox"><img src="image-ekstraklasa/pogon_szczecin.png" class="eksimg" id="pogon"></div>
+                                    </a>
+                                    <a href="rakow.html">
+                                        <div class="imgBox"><img src="image-ekstraklasa/rakow.png" class="eksimg" id="rakow"></div>
+                                    </a>
+                                    <a href="slask.html">
+                                        <div class="imgBox"><img src="image-ekstraklasa/slask.png" id="slask" width="58px"></div>
+                                    </a>
+                                    <a href="wis%C5%82aKrak%C3%B3w.html">
+                                        <div class="imgBox"><img src="image-ekstraklasa/wisla.png" class="eksimg" id="wisla"></div>
+                                    </a>
+                                    <a href="wis%C5%82aP%C5%82ock.html">
+                                        <div class="imgBox"><img src="image-ekstraklasa/wisla_plock.png" class="eksimg" id="wislaP"></div>
+                                    </a>
+                                    <a href="zaglebie.html">
+                                        <div class="imgBox"><img src="image-ekstraklasa/zaglebie_lubin.png" class="eksimg" id="zaglebie"></div>
+                                    </a>
                                 </div>
-                                </div>
-                        </li>                      
+                            </div>
+                        </li>
                         <li class="nav-item">
                             <a class="nav-link" data-toggle="dropdown">1 LIGA</a>
-                                <div class="dropdown-menu col-sm-12">
-                                <div class="eksDiv">    
-                                    <a href=""><p class="eksText">1 LIGA</p></a>
-                                    <a href=""><p class="eksText">Tabela</p></a>
-                                    <a href=""><p class="eksText">Strzelcy</p></a>
+                            <div class="dropdown-menu col-sm-12">
+                                <div class="eksDiv">
+                                    <a href="">
+                                        <p class="eksText">1 LIGA</p>
+                                    </a>
+                                    <a href="">
+                                        <p class="eksText">Tabela</p>
+                                    </a>
+                                    <a href="">
+                                        <p class="eksText">Strzelcy</p>
+                                    </a>
                                 </div>
-                                <div class="eksDiv">   
-                                     <a href=""><div class="divClubBox"><img src="image-1liga/termalica.png" class="liga1img" id="termalica"></div></a>
-                                    <a href=""><div class="divClubBox"><img src="image-1liga/chojniczanka.png" class="liga1img" id="chojniczanka"></div></a>
-                                    <a href=""><div class="divClubBox"><img src="image-1liga/belchatow.png" class="liga1img" id="belchatow"></div></a>
-                                    <a href=""><div class="divClubBox"><img src="image-1liga/chrobry.png" class="liga1img" id="chrobry"></div></a>
-                                    <a href=""><div class="divClubBox"><img src="image-1liga/jastrzebie.png" class="liga1img" id="jastrzebie"></div></a>
-                                    <a href=""><div class="divClubBox"><img src="image-1liga/miedz" class="liga1img" id="miedz"></div></a>
-                                    <a href=""><div class="divClubBox"><img src="image-1liga/odra.png" class="liga1img" id="odra"></div></a>
-                                    <a href=""><div class="divClubBox"><img src="image-1liga/olimpiag.jpg" class="liga1img" id="olimpiag"></div></a>
-                                    <a href=""><div class="divClubBox"><img src="image-1liga/podbeskidzie.png" class="liga1img" id="podbeskidzie"></div></a>
-                                    <a href=""><div class="divClubBox"><img src="image-1liga/puszcza.jpg" class="liga1img" id="puszcza"></div></a>
-                                    <a href=""><div class="divClubBox"><img src="image-1liga/radomiak.png" class="liga1img" id="radomiak"></div></a>
-                                    <a href=""><div class="divClubBox"><img src="image-1liga/sandecja.png" class="liga1img" id="sandecja"></div></a>
-                                    <a href=""><div class="divClubBox"><img src="image-1liga/stomil.png" class="liga1img" id="stomil"></div></a>
-                                    <a href=""><div class="divClubBox"><img src="image-1liga/stal.png" class="liga1img" id="stal"></div></a>
-                                    <a href=""><div class="divClubBox"><img src="image-1liga/tychy.png" class="liga1img" id="tychy"></div></a>
-                                    <a href=""><div class="divClubBox"><img src="image-1liga/warta.png" class="liga1img" id="warta"></div></a>
-                                    <a href=""><div class="divClubBox"><img src="image-1liga/wigry.png" class="liga1img" id="wigry"></div></a>
-                                    <a href=""><div class="divClubBox"><img src="image-1liga/Zag%C5%82%C4%99bie_Sosnowiec_herb.png" class="liga1img" id="zaglebieS"></div></a>
+                                <div class="eksDiv">
+                                    <a href="">
+                                        <div class="divClubBox"><img src="image-1liga/termalica.png" class="liga1img" id="termalica"></div>
+                                    </a>
+                                    <a href="">
+                                        <div class="divClubBox"><img src="image-1liga/chojniczanka.png" class="liga1img" id="chojniczanka"></div>
+                                    </a>
+                                    <a href="">
+                                        <div class="divClubBox"><img src="image-1liga/belchatow.png" class="liga1img" id="belchatow"></div>
+                                    </a>
+                                    <a href="">
+                                        <div class="divClubBox"><img src="image-1liga/chrobry.png" class="liga1img" id="chrobry"></div>
+                                    </a>
+                                    <a href="">
+                                        <div class="divClubBox"><img src="image-1liga/jastrzebie.png" class="liga1img" id="jastrzebie"></div>
+                                    </a>
+                                    <a href="">
+                                        <div class="divClubBox"><img src="image-1liga/miedz" class="liga1img" id="miedz"></div>
+                                    </a>
+                                    <a href="">
+                                        <div class="divClubBox"><img src="image-1liga/odra.png" class="liga1img" id="odra"></div>
+                                    </a>
+                                    <a href="">
+                                        <div class="divClubBox"><img src="image-1liga/olimpiag.jpg" class="liga1img" id="olimpiag"></div>
+                                    </a>
+                                    <a href="">
+                                        <div class="divClubBox"><img src="image-1liga/podbeskidzie.png" class="liga1img" id="podbeskidzie"></div>
+                                    </a>
+                                    <a href="">
+                                        <div class="divClubBox"><img src="image-1liga/puszcza.jpg" class="liga1img" id="puszcza"></div>
+                                    </a>
+                                    <a href="">
+                                        <div class="divClubBox"><img src="image-1liga/radomiak.png" class="liga1img" id="radomiak"></div>
+                                    </a>
+                                    <a href="">
+                                        <div class="divClubBox"><img src="image-1liga/sandecja.png" class="liga1img" id="sandecja"></div>
+                                    </a>
+                                    <a href="">
+                                        <div class="divClubBox"><img src="image-1liga/stomil.png" class="liga1img" id="stomil"></div>
+                                    </a>
+                                    <a href="">
+                                        <div class="divClubBox"><img src="image-1liga/stal.png" class="liga1img" id="stal"></div>
+                                    </a>
+                                    <a href="">
+                                        <div class="divClubBox"><img src="image-1liga/tychy.png" class="liga1img" id="tychy"></div>
+                                    </a>
+                                    <a href="">
+                                        <div class="divClubBox"><img src="image-1liga/warta.png" class="liga1img" id="warta"></div>
+                                    </a>
+                                    <a href="">
+                                        <div class="divClubBox"><img src="image-1liga/wigry.png" class="liga1img" id="wigry"></div>
+                                    </a>
+                                    <a href="">
+                                        <div class="divClubBox"><img src="image-1liga/Zag%C5%82%C4%99bie_Sosnowiec_herb.png" class="liga1img" id="zaglebieS"></div>
+                                    </a>
                                 </div>
-                                </div>
+                            </div>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" data-toggle="dropdown">2 LIGA</a>
-                                <div class="dropdown-menu col-sm-12">
-                                <div class="eksDiv">    
-                                    <a href=""><p class="eksText">2 LIGA</p></a>
-                                    <a href=""><p class="eksText">Tabela</p></a>
-                                    <a href=""><p class="eksText">Strzelcy</p></a>
+                            <div class="dropdown-menu col-sm-12">
+                                <div class="eksDiv">
+                                    <a href="">
+                                        <p class="eksText">2 LIGA</p>
+                                    </a>
+                                    <a href="">
+                                        <p class="eksText">Tabela</p>
+                                    </a>
+                                    <a href="">
+                                        <p class="eksText">Strzelcy</p>
+                                    </a>
                                 </div>
-                                <div class="eksDiv">   
-                                    <a href=""><div class="divClubBox"><img src="image-2liga/blekitni.png" class="liga2img" id="blekitni"></div></a>
-                                    <a href=""><div class="divClubBox"><img src="image-2liga/bytovia.png" class="liga2img" id="bytovia"></div></a>
-                                    <a href=""><div class="divClubBox"><img src="image-2liga/elana.png" class="liga2img" id="elana"></div></a>
-                                    <a href=""><div class="divClubBox"><img src="image-2liga/garbarnia.png" class="liga2img" id="garbarnia"></div></a>
-                                    <a href=""><div class="divClubBox"><img src="image-2liga/gkskatowice.png" class="liga2img" id="gkskatowice"></div></a>
-                                    <a href=""><div class="divClubBox"><img src="image-2liga/gryf.png" class="liga2img" id="gryf"></div></a>
-                                    <a href=""><div class="divClubBox"><img src="image-ekstraklasa/lech.png" class="liga2img" id="lech"></div></a>
-                                    <a href=""><div class="divClubBox"><img src="image-2liga/leczna.png" class="liga2img" id="leczna"></div></a>
-                                    <a href=""><div class="divClubBox"><img src="image-2liga/legionovia.png" class="liga2img" id="podbeskidzie"></div></a>
-                                    <a href=""><div class="divClubBox"><img src="image-2liga/olimpia.png" id="olimpiae" width="40px" height="60px"></div></a>
-                                    <a href=""><div class="divClubBox"><img src="image-2liga/pogons.png" class="liga2img" id="pogos"></div></a>
-                                    <a href=""><div class="divClubBox"><img src="image-2liga/polkowice.png" class="liga2img" id="polkowice"></div></a>
-                                    <a href=""><div class="divClubBox"><img src="image-2liga/resovia.png" class="liga2img" id="resovia"></div></a>
-                                    <a href=""><div class="divClubBox"><img src="image-2liga/skra" class="liga2img" id="skra"></div></a>
-                                    <a href=""><div class="divClubBox"><img src="image-2liga/stalowaw.png" class="liga2img" id="stalowawola"></div></a>
-                                    <a href=""><div class="divClubBox"><img src="image-2liga/stalr.png" id="stalr" width="60" height="45px"></div></a>
-                                    <a href=""><div class="divClubBox"><img src="image-2liga/widzew.png" class="liga2img" id="widzew"></div></a>
-                                    <a href=""><div class="divClubBox"><img src="image-2liga/znicz.png" class="liga2img" id="znicz"></div></a>
+                                <div class="eksDiv">
+                                    <a href="">
+                                        <div class="divClubBox"><img src="image-2liga/blekitni.png" class="liga2img" id="blekitni"></div>
+                                    </a>
+                                    <a href="">
+                                        <div class="divClubBox"><img src="image-2liga/bytovia.png" class="liga2img" id="bytovia"></div>
+                                    </a>
+                                    <a href="">
+                                        <div class="divClubBox"><img src="image-2liga/elana.png" class="liga2img" id="elana"></div>
+                                    </a>
+                                    <a href="">
+                                        <div class="divClubBox"><img src="image-2liga/garbarnia.png" class="liga2img" id="garbarnia"></div>
+                                    </a>
+                                    <a href="">
+                                        <div class="divClubBox"><img src="image-2liga/gkskatowice.png" class="liga2img" id="gkskatowice"></div>
+                                    </a>
+                                    <a href="">
+                                        <div class="divClubBox"><img src="image-2liga/gryf.png" class="liga2img" id="gryf"></div>
+                                    </a>
+                                    <a href="">
+                                        <div class="divClubBox"><img src="image-ekstraklasa/lech.png" class="liga2img" id="lech"></div>
+                                    </a>
+                                    <a href="">
+                                        <div class="divClubBox"><img src="image-2liga/leczna.png" class="liga2img" id="leczna"></div>
+                                    </a>
+                                    <a href="">
+                                        <div class="divClubBox"><img src="image-2liga/legionovia.png" class="liga2img" id="podbeskidzie"></div>
+                                    </a>
+                                    <a href="">
+                                        <div class="divClubBox"><img src="image-2liga/olimpia.png" id="olimpiae" width="40px" height="60px"></div>
+                                    </a>
+                                    <a href="">
+                                        <div class="divClubBox"><img src="image-2liga/pogons.png" class="liga2img" id="pogos"></div>
+                                    </a>
+                                    <a href="">
+                                        <div class="divClubBox"><img src="image-2liga/polkowice.png" class="liga2img" id="polkowice"></div>
+                                    </a>
+                                    <a href="">
+                                        <div class="divClubBox"><img src="image-2liga/resovia.png" class="liga2img" id="resovia"></div>
+                                    </a>
+                                    <a href="">
+                                        <div class="divClubBox"><img src="image-2liga/skra" class="liga2img" id="skra"></div>
+                                    </a>
+                                    <a href="">
+                                        <div class="divClubBox"><img src="image-2liga/stalowaw.png" class="liga2img" id="stalowawola"></div>
+                                    </a>
+                                    <a href="">
+                                        <div class="divClubBox"><img src="image-2liga/stalr.png" id="stalr" width="60" height="45px"></div>
+                                    </a>
+                                    <a href="">
+                                        <div class="divClubBox"><img src="image-2liga/widzew.png" class="liga2img" id="widzew"></div>
+                                    </a>
+                                    <a href="">
+                                        <div class="divClubBox"><img src="image-2liga/znicz.png" class="liga2img" id="znicz"></div>
+                                    </a>
                                 </div>
-                                </div>
+                            </div>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" data-toggle="dropdown">3 LIGA gr.1</a>
-                                <div class="dropdown-menu col-sm-12">w przygotowaniu</div>
+                            <div class="dropdown-menu col-sm-12">w przygotowaniu</div>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" data-toggle="dropdown">3 LIGA gr.2</a>
-                                <div class="dropdown-menu col-sm-12">w przygotowaniu</div>
+                            <div class="dropdown-menu col-sm-12">w przygotowaniu</div>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" data-toggle="dropdown">3 LIGA gr.3</a>
-                                <div class="dropdown-menu col-sm-12">w przygotowaniu</div>
+                            <div class="dropdown-menu col-sm-12">w przygotowaniu</div>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" data-toggle="dropdown">3 LIGA gr.4</a>
-                                <div class="dropdown-menu col-sm-12">w przygotowaniu</div>
+                            <div class="dropdown-menu col-sm-12">w przygotowaniu</div>
                         </li>
-                </ul>
-               </div>                 
-           </nav>
-           <article class="col-xl-10" id="article0">
-                   <div class="col-12 col-lg-8" id="content">
-                     <div id="carousel" class="carousel slide col-xl-12" data-ride="carousel">
-                          <ol class="carousel-indicators">
-                              <li data-target="#carousel" data-slide-to="0" class="active"></li>
-                              <li data-target="#carousel" data-slide-to="1"></li>
-                              <li data-target="#carousel" data-slide-to="2"></li>
-                          </ol>
-                           <div class="carousel-inner">
-                               <div class="carousel-item active" id="cracoviapogon">
-                                   <img class="d-flex" src="newsphoto/cracoviapogon.jpg">
-                                   <div class="photoNews">Lider jedzie do Krakowa</div>
-                               </div>
-                               <div class="carousel-item" id="legiawisla">
-                                   <img class="d-flex" src="newsphoto/legiawisla.jpg">
-                                   <div class="photoNews">Legia - Wisła. Odwieczny szlagier</div>
-                               </div>
-                               <div class="carousel-item" id="olimpiastal">
-                                   <img class="d-flex" src="newsphoto/olimpiastal.jpg">
-                                   <div class="photoNews">Hit 15 kolejki II ligi</div>
-                               </div>
-                           </div>
-                             <a class="carousel-control-prev" href="#carousel" role="button" data-slide="prev">
-                               <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                               <span class="sr-only"></span>
-                           </a>
-                           <a class="carousel-control-next" href="#carousel" role="button" data-slide="next">
-                               <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                               <span class="sr-only"></span>
-                           </a>
-                       </div>
-                   </div>
-                   <div class="col-12 col-lg-4" id="latestNews">
-                           <p>Z ostatniej chwili:</p>
-                           <ol>
-                               <li>I liga: Odra Opole - Stal Mielec 1:0</li>
-                               <li>Fortuna 1 Liga: Sandecja - GKS 1962 JASTRZĘBIE 1:1</li>
-                               <li>II liga: Stal Rzeszów - GKS Katowice 1:1</li>
-                               <li>II liga: Górnik Łęczna - Resovia 2:1</li>
-                               <li>II liga: Garbarnia - Elana 0:0</li>
-                               <li>Fortuna 1 Liga: Wigry Suwałki - Puszcza 2:3</li>
-                               <li>II liga: Bytovia - Pogoń Siedlce 1:3</li>
-                           </ol>
-                   </div>
-             </article>
-             <section class="col-12 col-xl-10" id="articleClicked">
-                 <p class="exitArticle">&#10006;</p>
-                 <div class="articlePhotoNews"></div>
-                 <div class="newsContent" id="newsFirst"></div>
-             </section>
-             <article class="col-xl-10" id="article1">
-                 <div id="article1Header"><p>HITY NADCHODZĄCEJ KOLEJKI</p></div>
-                 <button id="nextBtn2">&#10094;</button>
-                 <button id="prevBtn2">&#10095;</button>
-                 <div class="col-10 containersMatch" id="containerMatch">
-                      <div class="col-lg-6 match">
-                          <div class="herb">
-                              <img src="image-ekstraklasa/legia.png" class="image">
-                              <img src="image-ekstraklasa/wisla.png" class="image">
-                          </div>
-                          <div class="info">
-                              <p class="teams">LEGIA WARSZAWA - WISŁA KRAKÓW</p>
-                              <p class="teams">Warszawa, Stadion Wojska Polskiego<br/>27.10.2019, godz.17:30</p>
-                          </div>
-                      </div>
-                      <div class="col-lg-6 match">
-                          <div class="herb">
-                              <img src="image-1liga/radomiak.png" class="image" width="140px" height="150px">
-                              <img src="image-1liga/termalica.png" class="image" width="120px" height="150px">
-                          </div>
-                          <div class="info">
-                              <p class="teams">Radomiak Radom - Bruk-Bet Termalica Nieciecza</p>
-                              <p class="teams">Radom, Stadion Miejski<br/>26.10.2019, godz.14:00</p>
-                          </div>
-                      </div>
+                    </ul>
+                </div>
+            </nav>
+            <article class="col-xl-10" id="article0">
+                <div class="col-12 col-lg-8" id="content">
+                    <div id="carousel" class="carousel slide col-xl-12" data-ride="carousel">
+                        <ol class="carousel-indicators">
+                            <li data-target="#carousel" data-slide-to="0" class="active"></li>
+                            <li data-target="#carousel" data-slide-to="1"></li>
+                            <li data-target="#carousel" data-slide-to="2"></li>
+                        </ol>
+                        <div class="carousel-inner">
+                            <div class="carousel-item active" id="cracoviapogon">
+                                <img class="d-flex" src="newsphoto/cracoviapogon.jpg">
+                                <div class="photoNews">Lider jedzie do Krakowa</div>
+                            </div>
+                            <div class="carousel-item" id="legiawisla">
+                                <img class="d-flex" src="newsphoto/legiawisla.jpg">
+                                <div class="photoNews">Legia - Wisła. Odwieczny szlagier</div>
+                            </div>
+                            <div class="carousel-item" id="olimpiastal">
+                                <img class="d-flex" src="newsphoto/olimpiastal.jpg">
+                                <div class="photoNews">Hit 15 kolejki II ligi</div>
+                            </div>
+                        </div>
+                        <a class="carousel-control-prev" href="#carousel" role="button" data-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="sr-only"></span>
+                        </a>
+                        <a class="carousel-control-next" href="#carousel" role="button" data-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="sr-only"></span>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4" id="latestNews">
+                    <p>Z ostatniej chwili:</p>
+                    <ol>
+                        <li>I liga: Odra Opole - Stal Mielec 1:0</li>
+                        <li>Fortuna 1 Liga: Sandecja - GKS 1962 JASTRZĘBIE 1:1</li>
+                        <li>II liga: Stal Rzeszów - GKS Katowice 1:1</li>
+                        <li>II liga: Górnik Łęczna - Resovia 2:1</li>
+                        <li>II liga: Garbarnia - Elana 0:0</li>
+                        <li>Fortuna 1 Liga: Wigry Suwałki - Puszcza 2:3</li>
+                        <li>II liga: Bytovia - Pogoń Siedlce 1:3</li>
+                    </ol>
+                </div>
+            </article>
+            <section class="col-12 col-xl-10" id="articleClicked">
+                <p class="exitArticle">&#10006;</p>
+                <div class="articlePhotoNews"></div>
+                <div class="newsContent" id="newsFirst"></div>
+            </section>
+            <article class="col-xl-10" id="article1">
+                <div id="article1Header">
+                    <p>HITY NADCHODZĄCEJ KOLEJKI</p>
+                </div>
+                <button id="nextBtn2">&#10094;</button>
+                <button id="prevBtn2">&#10095;</button>
+                <div class="col-10 containersMatch" id="containerMatch">
+                    <div class="col-lg-6 match">
+                        <div class="herb">
+                            <img src="image-ekstraklasa/legia.png" class="image">
+                            <img src="image-ekstraklasa/wisla.png" class="image">
+                        </div>
+                        <div class="info">
+                            <p class="teams">LEGIA WARSZAWA - WISŁA KRAKÓW</p>
+                            <p class="teams">Warszawa, Stadion Wojska Polskiego<br />27.10.2019, godz.17:30</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 match">
+                        <div class="herb">
+                            <img src="image-1liga/radomiak.png" class="image" width="140px" height="150px">
+                            <img src="image-1liga/termalica.png" class="image" width="120px" height="150px">
+                        </div>
+                        <div class="info">
+                            <p class="teams">Radomiak Radom - Bruk-Bet Termalica Nieciecza</p>
+                            <p class="teams">Radom, Stadion Miejski<br />26.10.2019, godz.14:00</p>
+                        </div>
+                    </div>
                 </div>
 
-                <div class="col-10 containersMatch" id="containerMatch">     
-                      <div class="col-lg-6 match">
-                          <div class="herb">
-                              <img src="image-2liga/olimpia.png" class="image" width="80px" height="150px">
-                              <img src="image-2liga/stalr.png" class="image" width="120px" height="100px">
-                          </div>
-                          <div class="info">
-                              <p class="teams">OLIMPIA ELBLĄG - STAL RZESZÓW</p>
-                              <p class="teams">Elbląg, Stadion Miejski ul.Agrykola 8<br/>27.10.2019, godz.19:00</p>
-                          </div>
-                      </div>
-                        <div class="col-lg-6 match">
-                          <div class="herb">
-                              <img src="image-ekstraklasa/cracovia.png" class="image" width="140px" height="150px">
-                              <img src="image-ekstraklasa/pogon_szczecin.png" class="image" width="120px" height="150px">
-                          </div>
-                          <div class="info">
-                              <p class="teams">Cracovia - Pogoń Szczecin</p>
-                              <p class="teams">Kraków, Stadion Cracovii<br/>25.10.2019, godz.18:00</p>
-                          </div>
-                      </div>
-                  </div>
-                    <div class="col-10 containersMatch" id="containerMatch">     
-                      <div class="col-lg-6 match">
-                          <div class="herb">
-                              <img src="3-liga/poloniawarszawa.png" class="image" width="160px" height="160px">
-                              <img src="3-liga/concordia.png" class="image" width="80px" height="150px">
-                          </div>
-                          <div class="info">
-                              <p class="teams">POLONIA WARSZAWA - CONCORDIA ELBLĄG</p>
-                              <p class="teams">Warszawa, Stadion Polonii <br/>26.09.2019, godz.15:00</p>
-                          </div>
-                      </div>
-                        <div class="col-lg-6 match">
-                          <div class="herb">
-                              <img src="image-2liga/resovia.png" class="image" width="140px" height="150px">
-                              <img src="image-2liga/elana.png" class="image" width="120px" height="150px">
-                          </div>
-                          <div class="info">
-                              <p class="teams">RESOVIA - ELANA TORUŃ</p>
-                              <p class="teams">Rzeszów, Stadion Resovii<br/>26.10.2019, godz.14:00</p>
-                          </div>
-                      </div>
-                  </div>
-                  <div class="col-10 containersMatch" id="containerMatch">     
-                      <div class="col-lg-6 match">
-                          <div class="herb">
-                              <img src="3-liga/ruch.png" class="image" width="160px" height="160px">
-                              <img src="3-liga/poloniabytom.png" class="image" width="80px" height="150px">
-                          </div>
-                          <div class="info">
-                              <p class="teams">RUCH CHORZÓW - POLONIA BYTOM</p>
-                              <p class="teams">Chorzów, Stadion Miejski <br/>26.09.2019, godz.19:20</p>
-                          </div>
-                      </div>
-                        <div class="col-lg-6 match">
-                          <div class="herb">
-                              <img src="image-1liga/Zag%C5%82%C4%99bie_Sosnowiec_herb.png" class="image" width="140px" height="150px">
-                              <img src="image-1liga/chojniczanka.png" class="image" width="120px" height="150px">
-                          </div>
-                          <div class="info">
-                              <p class="teams">ZAGŁĘBIE SOSNOWIEC - CHOJNICZANKA CHOJNICE</p>
-                              <p class="teams">Sosnowiec, Stadion Ludowy<br/>26.10.2019, godz.18:00</p>
-                          </div>
-                      </div>
-                  </div>
-                  <div id="buttons2">
-                       <span class="boxClick2"></span>              
-                       <span class="boxClick2"></span>              
-                       <span class="boxClick2"></span>
-                       <span class="boxClick2"></span>
-                  </div> 
-           </article>
-               
-               <article class="col-xl-10" id="article2"><p>Newsy Dnia:</p>
-                   <section class="col-12 col-xl-10 todayNews">
-                     <p class="exitArticle">&#10006;</p>
-                     <div class="articlePhotoNews"></div>
-                     <div class="newsContent" id="newsToday"></div>
-                   </section>
-                   <section id="informations">
-                      <div class="col-sm-6 col-lg-4 news" id="news1">
-                           <img src="newsdnia/korona.jpg"> 
-                           <div class="backgroundNews">    
-                               <p class="title">Korona w głębokim....kryzysie</p>
-                           </div>
-                           <div class="backgroundNews2">
-                               <p class="title2">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."</p>
-                           </div> 
-                       </div>
-                       <div class="col-sm-6 col-lg-4 news" id="news2">
-                           <img src="newsdnia/lechzaglebie.jpg"> 
-                           <div class="backgroundNews">    
-                               <p class="title">Czy Lech wróci na zwycięską ścieżkę?</p>
-                           </div>
-                           <div class="backgroundNews2">
-                               <p class="title2">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."</p>
-                           </div>  
-                       </div>
-                       <div class="col-sm-6 col-lg-4 news" id="news3">
-                          <img src="newsdnia/radomiak.jpg">
-                           <div class="backgroundNews"> 
-                               <p class="title">Radomiaka stać na pierwszą ligę?</p>
-                          </div>
-                          <div class="backgroundNews2">
-                               <p class="title2">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."</p>
-                           </div> 
-                       </div>
-                       <div class="col-sm-6 col-lg-4 news" id="news4">
-                         <img src="newsdnia/stalmielec.jpg">
-                          <div class="backgroundNews"> 
-                               <p class="title">Chrobry przełamie Stal?</p>
-                          </div>
-                          <div class="backgroundNews2">
-                               <p class="title2">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."</p>
-                           </div> 
-                       </div>
-                        <div class="col-sm-6  col-lg-4 news" id="news5">
-                          <img src="newsdnia/2liga.jpg">
-                           <div class="backgroundNews">
-                               <p class="title">Podsumowanie 14 kolejki 2 ligi</p>
-                           </div>
-                           <div class="backgroundNews2">
-                               <p class="title2">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."</p>
-                           </div> 
-                       </div>
-                       <div class="col-sm-6  col-lg-4 news" id="news6">
-                           <img src="newsdnia/poloniaruch.jpg">
-                           <div class="backgroundNews">
-                               <p class="title">3 ligowa święta wojna</p>
-                           </div>
-                           <div class="backgroundNews2">
-                               <p class="title2">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."</p>
-                           </div> 
-                       </div>
-                   </section>
-               </article>
-               <article class="col-xl-10" id="players">
-                   <div id="playersHeader">Najlepsi strzelcy</div>
-                   <div class="col-sm-6 col-lg-3 playersDiv">
-                       <div class="leagueHeader">
-                           <p>Ekstraklasa</p>
-                       </div>
-                       <div class="col-12 leader">
-                           <div class="photoPlayer"> 
-                                <img src="players/imaz_jesus.jpg">
-                                <div class="infoPlayerL"></div>
-                           </div>
-                       </div>
-                       <div class="col-6 second">
-                           <div class="photoPlayer">
-                               <img src="players/bro%C5%BCek.jpg">
-                           </div>
-                           <div class="infoPlayerV"></div>
-                       </div>
-                       <div class="col-6 second">
-                           <div class="photoPlayer">
-                               <img src="players/niezgoda.jpg">
-                           </div>
-                           <div class="infoPlayer3"></div>
-                       </div>
-                   </div>
-                   <div class="col-sm-6 col-lg-3 playersDiv">
-                       <div class="leagueHeader">
-                           <p>1 liga</p>
-                       </div>
-                       <div class="col-12 leader">
-                           <div class="photoPlayer">
-                           <img src="players/omranhaydray.jpg">
-                           <div class="infoPlayerL"></div>
-                           </div>
-                       </div>
-                       <div class="col-6 second">
-                           <div class="photoPlayer">
-                               <img src="players/mariuszmarzec.jpg">
-                           </div>
-                           <div class="infoPlayerV"></div>
-                       </div>
-                       <div class="col-6 second">
-                           <div class="photoPlayer">
-                               <img src="players/karol%20danielak.jpg">
-                           </div>
-                           <div class="infoPlayer3"></div>
-                       </div>
-                   </div>
-                   <div class="col-sm-6 col-lg-3 playersDiv">
-                       <div class="leagueHeader">
-                           <p>2 liga</p>
-                       </div>
-                       <div class="col-12 leader">
-                           <div class="photoPlayer">  
-                               <img src="players/robak.jpg">
-                               <div class="infoPlayerL"></div>
-                           </div>
-                       </div>
-                       <div class="col-6 second">
-                           <div class="photoPlayer">
-                               <img src="http://img.90minut.pl/pix/players/wojciechowski_pawel_II.jpg?t=1571767084">
-                           </div>
-                           <div class="infoPlayerV"></div>
-                       </div>
-                       <div class="col-6 second">
-                           <div class="photoPlayer">    
-                               <img src="http://img.90minut.pl/pix/players/szuprytowski_damian.jpg?t=1571767140">
-                           </div>
-                           <div class="infoPlayer3"></div>  
-                       </div>
-                   </div>
-                     <div class="col-sm-6 col-lg-3 playersDiv">
-                       <div class="leagueHeader">
-                           <p>3 liga</p>
-                       </div>
-                       <div class="col-12 leader">
-                           <div class="photoPlayer"> 
-                               <img src="players/krzysztofropski.jpg">
-                               <div class="infoPlayerL"></div> 
-                           </div>
-                       </div>
-                       <div class="col-6 second">
-                           <div class="photoPlayer">
-                               <img src="players/krol_rafal.jpg">
-                           </div>
-                           <div class="infoPlayerV"></div>
-                       </div>
-                       <div class="col-md-6 col-6 second">
-                           <div class="photoPlayer">
-                               <img src="players/ma%C4%87czakbart%C5%82omiej.jpg">
-                           </div>
-                           <div class="infoPlayer3"></div>
-                       </div>
-                   </div>
-               </article>
-               <article class="col-xl-10 calenderForMatches">
-                   <div class="textHeader"><p>Sprawdź hity kolejki!</p></div>
-                   <div id="divforcalender"></div>
-                       <div class="schedule">
-                           <div class="dataDiv">
-                               <p id="dataMatch"></p>
-                               <p id="exit">&#10006;</p>
-                           </div>
-                           <div id="mecze">
-                               <button id="upBtn"><i class="fa fa-angle-double-up"></i></button>
-                               <button id="downBtn"><i class="fa fa-angle-double-down"></i></button>
-                               <div class="meczeleague" id="ekstraklasa"></div>   
-                               <div class="meczeleague" id="firstLeague"></div>
-                               <div class="meczeleague" id="secondLeague"></div>
-                               <div class="meczeleague" id="thirdLeague"></div>
-                               <div id="noGame" style="text-align: center; font-size: 18px;"></div>
-                           </div>
-                       </div>
-                   <div class="live">
-                            <div class="headerLive">LIVE:</div>
-                            <div class="liveMatch">
-                                <p class="minute"></p><img src="image-ekstraklasa/legia.png" width="50px" height="60px"><img src="image-ekstraklasa/wisla.png" width="50px" height="60px"><p>27.09</p>
-                            </div>
-                            <div class="liveMatch">
-                                <p class="minute"></p><img src="image-ekstraklasa/cracovia.png" width="45px" height="60px"><img src="image-ekstraklasa/pogon_szczecin.png"  width="45px" height="50px"><p>0:0</p>
-                            </div>
-                            <div class="liveMatch">
-                                <p class="minute"></p><img src="image-1liga/radomiak.png" width="55px" height="50px"><img src="image-1liga/termalica.png" width="50px" height="50px"><p>25.09</p>
-                            </div>
-                            <div class="liveMatch">
-                                <p class="minute"></p><img src="image-2liga/olimpia.png" width="35px" height="50px"><img src="image-2liga/stalr.png"  width="60px" height="50px"><p>27.09</p>
-                            </div>
-                             <div class="liveMatch">
-                                <p class="minute"></p><img src="image-1liga/Zag%C5%82%C4%99bie_Sosnowiec_herb.png" width="50px" height="50px"><img src="image-1liga/chojniczanka.png"  width="55px" height="50px"><p>26.09</p>
-                            </div>
-                             <div class="liveMatch">
-                                <p class="minute"></p><img src="image-2liga/resovia.png" width="45px" height="50px"><img src="image-2liga/elana.png"  width="50px" height="50px"><p>26.09</p>
-                            </div>
-                   </div>
-               </article>
-               
-           <footer>
-            <div class="col-12 col-lg-10">
-                <div class="contentFooter2">
-                     <h4>Vademecum Kibica</h4>
-                     <p>Strona przeznaczona dla każdego kibica polskiej ligi</p>   
+                <div class="col-10 containersMatch" id="containerMatch">
+                    <div class="col-lg-6 match">
+                        <div class="herb">
+                            <img src="image-2liga/olimpia.png" class="image" width="80px" height="150px">
+                            <img src="image-2liga/stalr.png" class="image" width="120px" height="100px">
+                        </div>
+                        <div class="info">
+                            <p class="teams">OLIMPIA ELBLĄG - STAL RZESZÓW</p>
+                            <p class="teams">Elbląg, Stadion Miejski ul.Agrykola 8<br />27.10.2019, godz.19:00</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 match">
+                        <div class="herb">
+                            <img src="image-ekstraklasa/cracovia.png" class="image" width="140px" height="150px">
+                            <img src="image-ekstraklasa/pogon_szczecin.png" class="image" width="120px" height="150px">
+                        </div>
+                        <div class="info">
+                            <p class="teams">Cracovia - Pogoń Szczecin</p>
+                            <p class="teams">Kraków, Stadion Cracovii<br />25.10.2019, godz.18:00</p>
+                        </div>
+                    </div>
                 </div>
-                <div class="contentFooter">
-                    <p class="league">REPREZENTACJA</p>
-                    <p class="league">EKSTRAKLASA</p>   
-                    <p class="league">FORTUNA 1 LIGA</p>   
-                    <p class="league">2 LIGA</p>   
-                    <p class="league">3 LIGA</p>
-                    <p id="vk2019">Wojciech Żuwalski</p>  
+                <div class="col-10 containersMatch" id="containerMatch">
+                    <div class="col-lg-6 match">
+                        <div class="herb">
+                            <img src="3-liga/poloniawarszawa.png" class="image" width="160px" height="160px">
+                            <img src="3-liga/concordia.png" class="image" width="80px" height="150px">
+                        </div>
+                        <div class="info">
+                            <p class="teams">POLONIA WARSZAWA - CONCORDIA ELBLĄG</p>
+                            <p class="teams">Warszawa, Stadion Polonii <br />26.09.2019, godz.15:00</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 match">
+                        <div class="herb">
+                            <img src="image-2liga/resovia.png" class="image" width="140px" height="150px">
+                            <img src="image-2liga/elana.png" class="image" width="120px" height="150px">
+                        </div>
+                        <div class="info">
+                            <p class="teams">RESOVIA - ELANA TORUŃ</p>
+                            <p class="teams">Rzeszów, Stadion Resovii<br />26.10.2019, godz.14:00</p>
+                        </div>
+                    </div>
                 </div>
-            </div>
-          </footer>
-      </div>       
+                <div class="col-10 containersMatch" id="containerMatch">
+                    <div class="col-lg-6 match">
+                        <div class="herb">
+                            <img src="3-liga/ruch.png" class="image" width="160px" height="160px">
+                            <img src="3-liga/poloniabytom.png" class="image" width="80px" height="150px">
+                        </div>
+                        <div class="info">
+                            <p class="teams">RUCH CHORZÓW - POLONIA BYTOM</p>
+                            <p class="teams">Chorzów, Stadion Miejski <br />26.09.2019, godz.19:20</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 match">
+                        <div class="herb">
+                            <img src="image-1liga/Zag%C5%82%C4%99bie_Sosnowiec_herb.png" class="image" width="140px" height="150px">
+                            <img src="image-1liga/chojniczanka.png" class="image" width="120px" height="150px">
+                        </div>
+                        <div class="info">
+                            <p class="teams">ZAGŁĘBIE SOSNOWIEC - CHOJNICZANKA CHOJNICE</p>
+                            <p class="teams">Sosnowiec, Stadion Ludowy<br />26.10.2019, godz.18:00</p>
+                        </div>
+                    </div>
+                </div>
+                <div id="buttons2">
+                    <span class="boxClick2"></span>
+                    <span class="boxClick2"></span>
+                    <span class="boxClick2"></span>
+                    <span class="boxClick2"></span>
+                </div>
+            </article>
+
+            <article class="col-xl-10" id="article2">
+                <p>Newsy Dnia:</p>
+                <section class="col-12 col-xl-10 todayNews">
+                    <p class="exitArticle">&#10006;</p>
+                    <div class="articlePhotoNews"></div>
+                    <div class="newsContent" id="newsToday"></div>
+                </section>
+                <section id="informations">
+                    <div class="col-sm-6 col-lg-4 news" id="news1">
+                        <img src="newsdnia/korona.jpg">
+                        <div class="backgroundNews">
+                            <p class="title">Korona w głębokim....kryzysie</p>
+                        </div>
+                        <div class="backgroundNews2">
+                            <p class="title2">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."</p>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-lg-4 news" id="news2">
+                        <img src="newsdnia/lechzaglebie.jpg">
+                        <div class="backgroundNews">
+                            <p class="title">Czy Lech wróci na zwycięską ścieżkę?</p>
+                        </div>
+                        <div class="backgroundNews2">
+                            <p class="title2">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."</p>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-lg-4 news" id="news3">
+                        <img src="newsdnia/radomiak.jpg">
+                        <div class="backgroundNews">
+                            <p class="title">Radomiaka stać na pierwszą ligę?</p>
+                        </div>
+                        <div class="backgroundNews2">
+                            <p class="title2">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."</p>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-lg-4 news" id="news4">
+                        <img src="newsdnia/stalmielec.jpg">
+                        <div class="backgroundNews">
+                            <p class="title">Chrobry przełamie Stal?</p>
+                        </div>
+                        <div class="backgroundNews2">
+                            <p class="title2">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."</p>
+                        </div>
+                    </div>
+                    <div class="col-sm-6  col-lg-4 news" id="news5">
+                        <img src="newsdnia/2liga.jpg">
+                        <div class="backgroundNews">
+                            <p class="title">Podsumowanie 14 kolejki 2 ligi</p>
+                        </div>
+                        <div class="backgroundNews2">
+                            <p class="title2">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."</p>
+                        </div>
+                    </div>
+                    <div class="col-sm-6  col-lg-4 news" id="news6">
+                        <img src="newsdnia/poloniaruch.jpg">
+                        <div class="backgroundNews">
+                            <p class="title">3 ligowa święta wojna</p>
+                        </div>
+                        <div class="backgroundNews2">
+                            <p class="title2">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."</p>
+                        </div>
+                    </div>
+                </section>
+            </article>
+            <article class="col-xl-10" id="players">
+                <div id="playersHeader">Najlepsi strzelcy</div>
+                <div class="col-sm-6 col-lg-3 playersDiv">
+                    <div class="leagueHeader">
+                        <p>Ekstraklasa</p>
+                    </div>
+                    <div class="col-12 leader">
+                        <div class="photoPlayer">
+                            <img src="players/imaz_jesus.jpg">
+                            <div class="infoPlayerL"></div>
+                        </div>
+                    </div>
+                    <div class="col-6 second">
+                        <div class="photoPlayer">
+                            <img src="players/bro%C5%BCek.jpg">
+                        </div>
+                        <div class="infoPlayerV"></div>
+                    </div>
+                    <div class="col-6 second">
+                        <div class="photoPlayer">
+                            <img src="players/niezgoda.jpg">
+                        </div>
+                        <div class="infoPlayer3"></div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-lg-3 playersDiv">
+                    <div class="leagueHeader">
+                        <p>1 liga</p>
+                    </div>
+                    <div class="col-12 leader">
+                        <div class="photoPlayer">
+                            <img src="players/omranhaydray.jpg">
+                            <div class="infoPlayerL"></div>
+                        </div>
+                    </div>
+                    <div class="col-6 second">
+                        <div class="photoPlayer">
+                            <img src="players/mariuszmarzec.jpg">
+                        </div>
+                        <div class="infoPlayerV"></div>
+                    </div>
+                    <div class="col-6 second">
+                        <div class="photoPlayer">
+                            <img src="players/karol%20danielak.jpg">
+                        </div>
+                        <div class="infoPlayer3"></div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-lg-3 playersDiv">
+                    <div class="leagueHeader">
+                        <p>2 liga</p>
+                    </div>
+                    <div class="col-12 leader">
+                        <div class="photoPlayer">
+                            <img src="players/robak.jpg">
+                            <div class="infoPlayerL"></div>
+                        </div>
+                    </div>
+                    <div class="col-6 second">
+                        <div class="photoPlayer">
+                            <img src="http://img.90minut.pl/pix/players/wojciechowski_pawel_II.jpg?t=1571767084">
+                        </div>
+                        <div class="infoPlayerV"></div>
+                    </div>
+                    <div class="col-6 second">
+                        <div class="photoPlayer">
+                            <img src="http://img.90minut.pl/pix/players/szuprytowski_damian.jpg?t=1571767140">
+                        </div>
+                        <div class="infoPlayer3"></div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-lg-3 playersDiv">
+                    <div class="leagueHeader">
+                        <p>3 liga</p>
+                    </div>
+                    <div class="col-12 leader">
+                        <div class="photoPlayer">
+                            <img src="players/krzysztofropski.jpg">
+                            <div class="infoPlayerL"></div>
+                        </div>
+                    </div>
+                    <div class="col-6 second">
+                        <div class="photoPlayer">
+                            <img src="players/krol_rafal.jpg">
+                        </div>
+                        <div class="infoPlayerV"></div>
+                    </div>
+                    <div class="col-md-6 col-6 second">
+                        <div class="photoPlayer">
+                            <img src="players/ma%C4%87czakbart%C5%82omiej.jpg">
+                        </div>
+                        <div class="infoPlayer3"></div>
+                    </div>
+                </div>
+            </article>
+            <article class="col-xl-10 calenderForMatches">
+                <div class="textHeader">
+                    <p>Sprawdź hity kolejki!</p>
+                </div>
+                <div id="divforcalender"></div>
+                <div class="schedule">
+                    <div class="dataDiv">
+                        <p id="dataMatch"></p>
+                        <p id="exit">&#10006;</p>
+                    </div>
+                    <div id="mecze">
+                        <button id="upBtn"><i class="fa fa-angle-double-up"></i></button>
+                        <button id="downBtn"><i class="fa fa-angle-double-down"></i></button>
+                        <div class="meczeleague" id="ekstraklasa"></div>
+                        <div class="meczeleague" id="firstLeague"></div>
+                        <div class="meczeleague" id="secondLeague"></div>
+                        <div class="meczeleague" id="thirdLeague"></div>
+                        <div id="noGame" style="text-align: center; font-size: 18px;"></div>
+                    </div>
+                </div>
+                <div class="live">
+                    <div class="headerLive">LIVE:</div>
+                    <div class="liveMatch">
+                        <p class="minute"></p><img src="image-ekstraklasa/legia.png" width="50px" height="60px"><img src="image-ekstraklasa/wisla.png" width="50px" height="60px">
+                        <p>27.09</p>
+                    </div>
+                    <div class="liveMatch">
+                        <p class="minute"></p><img src="image-ekstraklasa/cracovia.png" width="45px" height="60px"><img src="image-ekstraklasa/pogon_szczecin.png" width="45px" height="50px">
+                        <p>0:0</p>
+                    </div>
+                    <div class="liveMatch">
+                        <p class="minute"></p><img src="image-1liga/radomiak.png" width="55px" height="50px"><img src="image-1liga/termalica.png" width="50px" height="50px">
+                        <p>25.09</p>
+                    </div>
+                    <div class="liveMatch">
+                        <p class="minute"></p><img src="image-2liga/olimpia.png" width="35px" height="50px"><img src="image-2liga/stalr.png" width="60px" height="50px">
+                        <p>27.09</p>
+                    </div>
+                    <div class="liveMatch">
+                        <p class="minute"></p><img src="image-1liga/Zag%C5%82%C4%99bie_Sosnowiec_herb.png" width="50px" height="50px"><img src="image-1liga/chojniczanka.png" width="55px" height="50px">
+                        <p>26.09</p>
+                    </div>
+                    <div class="liveMatch">
+                        <p class="minute"></p><img src="image-2liga/resovia.png" width="45px" height="50px"><img src="image-2liga/elana.png" width="50px" height="50px">
+                        <p>26.09</p>
+                    </div>
+                </div>
+            </article>
+
+            <footer>
+                <div class="col-12 col-lg-10">
+                    <div class="contentFooter2">
+                        <h4>Vademecum Kibica</h4>
+                        <p>Strona przeznaczona dla każdego kibica polskiej ligi</p>
+                    </div>
+                    <div class="contentFooter">
+                        <p class="league">REPREZENTACJA</p>
+                        <p class="league">EKSTRAKLASA</p>
+                        <p class="league">FORTUNA 1 LIGA</p>
+                        <p class="league">2 LIGA</p>
+                        <p class="league">3 LIGA</p>
+                        <p id="vk2019">Wojciech Żuwalski</p>
+                    </div>
+                </div>
+            </footer>
+        </div>
     </div>
     <script src="jquery-3.4.0.min.js"></script>
-    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.12/jquery-ui.min.js"></script>   
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.12/jquery-ui.min.js"></script>
     <script src="scripts.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-    <script src="js/bootstrap.min.js"></script>    
+    <script src="js/bootstrap.min.js"></script>
 </body>
+
 </html>
