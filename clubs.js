@@ -1,3 +1,9 @@
+$(document).ready(function(){
+    $('header').load("index.html #headerContent")
+    $('navbar').load("index.html #navigation")
+    $('footer').load("index.html .footerDiv")
+});
+
 let teams = [
   ["", "Drużyna", "pkt", "mecze", "12"],
   ["1", "Pogoń Szczecin", "24", "12"],
@@ -63,18 +69,18 @@ window.onscroll = function() {
   navbarSticky();
 };
 
-let nav = document.getElementById("navigation");
+let nav = document.querySelector("navbar");
 let navPosition = nav.offsetTop;
 
 let navbarSticky = () => {
-  if (window.pageYOffset >= navPosition) {
-    $(navigation).addClass("stickyMenu");
+  if(window.pageYOffset >= navPosition) {
+    $('.navbarContent').addClass("stickyMenu");
   } else {
-    $(navigation).removeClass("stickyMenu");
+    $('.navbarContent').removeClass("stickyMenu");
   }
 };
 
-let clicked = true;
+/*let clicked = true;
 let colorBtn = () => {
   $(navbarBtn).click(function() {
     if (clicked == true) {
@@ -90,7 +96,7 @@ let colorBtn = () => {
     }
   });
 };
-colorBtn();
+colorBtn();*/
 
 //Zawodnicy Arka Gdynia
 
