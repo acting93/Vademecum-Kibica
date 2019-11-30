@@ -261,7 +261,7 @@ playersInformations();
 let currentDayMatch = 0;
 let meczeDiv = document.getElementsByClassName("meczeleague");
 
-let clicked = true;
+/*let clicked = true;
 $(document).ready(function() {
   $(navbarBtn).click(function() {
     if (clicked == true) {
@@ -276,7 +276,7 @@ $(document).ready(function() {
       clicked = true;
     }
   });
-});
+});*/
 
 let resetMatch = () => {
   for (let i = 0; i < meczeDiv.length; i++) {

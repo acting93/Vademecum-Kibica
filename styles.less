@@ -1,4 +1,4 @@
-@font: #e6df27;
+@font: #f5ed09;
 @gradient: radial-gradient(#000064, #020000);
 @border: @gradient;
 
@@ -54,11 +54,15 @@ header {
             position: relative;
             margin-left: 10px;
             font-size: 35px;
-            font-weight: 600;
+            font-weight: 400;
             -ms-font-weight: 600;
             color: @font;
             line-height: 120px;
             text-shadow: 0px 0px 10px #020408;
+            -webkit-text-shadow: 0px 0px 10px #020408;
+            -moz-text-shadow: 0px 0px 10px #020408;
+            -ms-text-shadow: 0px 0px 10px #020408;
+            -o-text-shadow: 0px 0px 10px #020408;
         }
 
         a {
@@ -281,19 +285,24 @@ nav {
     border-radius: 0% 0% 50% 50%;
 
     #navbarBtn {
-        background: red;
+        top:0px;
+        background:#ff0000;
         width: 40px;
-        height: 80%;
+        height: 40px;
         font-size: 10px;
         text-align: center;
         outline: none;
-        border-radius: 20%;
+        border-radius: 10%;
         -webkit-border-radius: 20%;
         -moz-border-radius: 20%;
         -ms-border-radius: 20%;
         -o-border-radius: 20%;
     }
-
+    #navbarBtn:active{
+       background:#baff00;
+    }
+   
+    
     ul {
         height: auto;
         float: none;
@@ -504,9 +513,14 @@ nav {
     width: 100%;
     left: 0;
     right: auto;
-    height: 60px;
+    height: 70px;
 }
-
+ .navbarContent {
+     width:100%;
+     height: auto;
+     z-index: 7;
+     padding: 0;
+ }
 #article0 {
     height: auto;
     margin: 10px auto;
